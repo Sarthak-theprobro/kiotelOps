@@ -1,6 +1,6 @@
 import React from 'react';
 import { 
-  Hotel, Clock, Volume2, VolumeX, Sun, Moon, Send, QrCode, Lock, LogOut, ShieldCheck, UserCheck
+  Hotel, Clock, Volume2, VolumeX, Sun, Moon, Send, QrCode, Lock, LogOut, ShieldCheck, UserCheck, UserPlus
 } from 'lucide-react';
 import { EXECUTIVE_USERS } from '../config';
 
@@ -11,6 +11,9 @@ export default function Header({
   setSoundEnabled,
   currentUser,
   setCurrentUser,
+  users = EXECUTIVE_USERS,
+  onSelectUser,
+  onAddUser,
   activeWaAccount,
   currentShift,
   currentTime,
@@ -73,7 +76,7 @@ export default function Header({
 
       {/* Action Controls */}
       <div className="flex items-center gap-1.5 sm:gap-2 flex-wrap">
-        {/* Quick User Switcher (Sarthak / Vikas / Dhiren) */}
+        {/* Quick User Switcher (Sarthak / Vikas / Dhiren + Add User) */}
         {setCurrentUser && (
           <div className={`flex items-center gap-1 px-2 py-1 rounded-lg border text-xs ${
             isDarkMode ? 'bg-slate-950 border-slate-800 text-slate-200' : 'bg-slate-100 border-slate-300 text-slate-900'
@@ -82,18 +85,39 @@ export default function Header({
             <select
               value={currentUser}
               onChange={(e) => {
-                setCurrentUser(e.target.value);
-                sessionStorage.setItem('kiotel_auth_user', e.target.value);
+                const val = e.target.value;
+                setCurrentUser(val);
+                sessionStorage.setItem('kiotel_auth_user', val);
+                const found = users.find(u => (u.label || u.id) === val || u.id === val);
+                if (onSelectUser) onSelectUser(found || { id: val, label: val });
               }}
               className="bg-transparent font-bold text-[11px] sm:text-xs focus:outline-none cursor-pointer"
-              title="Switch active user profile (Sarthak / Vikas / Dhiren)"
+              title="Switch active user & their WhatsApp workspace"
             >
-              {EXECUTIVE_USERS.map(u => (
-                <option key={u.id} value={u.id} className="bg-slate-900 text-white">
-                  {u.icon} {u.name}
-                </option>
-              ))}
+              {users.map(u => {
+                const key = u.label || u.id;
+                return (
+                  <option key={u.id} value={key} className="bg-slate-900 text-white">
+                    {u.icon || '👤'} {u.name} ({u.role})
+                  </option>
+                );
+              })}
             </select>
+            {onAddUser && (
+              <button
+                type="button"
+                onClick={() => {
+                  const name = window.prompt('Enter new user name (e.g., Rohan):');
+                  if (!name || !name.trim()) return;
+                  const role = window.prompt('Enter role for ' + name.trim() + ':', 'Operations Manager') || 'Operations Manager';
+                  onAddUser({ name: name.trim(), role: role.trim() });
+                }}
+                className="ml-1 p-0.5 rounded hover:bg-blue-500/20 text-blue-500"
+                title="Add a new user with their own WhatsApp workspace"
+              >
+                <UserPlus className="w-3.5 h-3.5" />
+              </button>
+            )}
           </div>
         )}
 

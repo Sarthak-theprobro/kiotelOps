@@ -28,7 +28,7 @@ import ReplyModal from './components/modals/ReplyModal';
 import SosModal from './components/modals/SosModal';
 import SimulatorModal from './components/modals/SimulatorModal';
 import QrModal from './components/modals/QrModal';
-import { apiUrl, getWsUrl } from './config';
+import { apiUrl, getWsUrl, EXECUTIVE_USERS } from './config';
 
 const DEFAULT_EXECUTIVE_PIN = "2026";
 
@@ -38,6 +38,9 @@ export default function App() {
     const savedState = sessionStorage.getItem('kiotel_session_state');
     return savedState || 'ACTIVE';
   });
+
+  const [usersList, setUsersList] = useState(EXECUTIVE_USERS);
+  const [switchingUser, setSwitchingUser] = useState(false);
 
   const [currentUser, setCurrentUser] = useState(() => {
     return sessionStorage.getItem('kiotel_auth_user') || 'Sarthak (Ops Manager)';
@@ -87,6 +90,7 @@ export default function App() {
   const [auditLogs, setAuditLogs] = useState([]);
   const [currentShift, setCurrentShift] = useState({ name: 'Operations Shift', timing: '24/7 Coverage' });
   const [isWaConnected, setIsWaConnected] = useState(false);
+  const [waStatus, setWaStatus] = useState(null);
   const [aiAnalysis, setAiAnalysis] = useState(null);
   const [isAnalyzing, setIsAnalyzing] = useState(false);
 
@@ -165,7 +169,8 @@ export default function App() {
         resMsgs,
         resWa,
         resAi,
-        resAudit
+        resAudit,
+        resUsers
       ] = await Promise.all([
         fetch(apiUrl('/api/health')).then(r => r.json()).catch(() => null),
         fetch(apiUrl('/api/properties')).then(r => r.json()).catch(() => ({ properties: [], statusCounts: {} })),
@@ -176,9 +181,10 @@ export default function App() {
         fetch(apiUrl('/api/shifts')).then(r => r.json()).catch(() => ({ handovers: [] })),
         fetch(apiUrl('/api/team')).then(r => r.json()).catch(() => ({ team: [] })),
         fetch(apiUrl('/api/messages')).then(r => r.json()).catch(() => ({ messages: [] })),
-        fetch(apiUrl('/api/whatsapp/status')).then(r => r.json()).catch(() => ({ connected: false })),
+        fetch(apiUrl('/api/whatsapp/status')).then(r => r.json()).catch(() => ({ isConnected: false })),
         fetch(apiUrl('/api/ai-analyze-24h')).then(r => r.json()).catch(() => null),
-        fetch(apiUrl('/api/audit-logs')).then(r => r.json()).catch(() => ({ logs: [] }))
+        fetch(apiUrl('/api/audit-logs')).then(r => r.json()).catch(() => ({ logs: [] })),
+        fetch(apiUrl('/api/users')).then(r => r.json()).catch(() => null)
       ]);
 
       if (resHealth?.currentShift) setCurrentShift(resHealth.currentShift);
@@ -196,11 +202,60 @@ export default function App() {
       if (resShifts?.handovers) setHandovers(resShifts.handovers);
       if (resTeam?.team) setTeam(resTeam.team);
       if (resMsgs?.messages) setMessages(resMsgs.messages);
-      if (resWa?.connected !== undefined) setIsWaConnected(resWa.connected);
+      if (resWa) {
+        setWaStatus(resWa);
+        setIsWaConnected(Boolean(resWa.isConnected ?? resWa.connected ?? (resWa.state === 'CONNECTED')));
+      }
       if (resAi) setAiAnalysis(resAi);
       if (resAudit?.logs) setAuditLogs(resAudit.logs);
+      if (resUsers?.users && resUsers.users.length > 0) {
+        setUsersList(resUsers.users);
+      }
     } catch (err) {
       console.error('Error fetching operational intelligence data:', err);
+    }
+  };
+
+  // Switch active user & their isolated WhatsApp workspace
+  const handleSelectUser = async (userObj) => {
+    const targetId = userObj?.id || userObj?.label || userObj;
+    const targetLabel = userObj?.label || userObj?.name || targetId;
+    setCurrentUser(targetLabel);
+    sessionStorage.setItem('kiotel_auth_user', targetLabel);
+    setSwitchingUser(true);
+    try {
+      await fetch(apiUrl('/api/users/switch'), {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ userId: targetId, userLabel: targetLabel })
+      });
+      await fetchData();
+      showToast(`👤 Switched to ${targetLabel}'s WhatsApp workspace!`, 'success');
+    } catch (_) {
+      showToast('Failed to switch user workspace', 'error');
+    } finally {
+      setSwitchingUser(false);
+    }
+  };
+
+  // Add a new user with their own WhatsApp workspace
+  const handleAddUser = async ({ name, role }) => {
+    try {
+      const res = await fetch(apiUrl('/api/users'), {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ name, role })
+      });
+      const data = await res.json();
+      if (data.success && data.user) {
+        if (data.users) setUsersList(data.users);
+        showToast(`✅ Added ${data.user.label}! Switching to their workspace...`, 'success');
+        await handleSelectUser(data.user);
+      } else {
+        showToast(data.error || 'Could not add user', 'error');
+      }
+    } catch (_) {
+      showToast('Failed to add new user', 'error');
     }
   };
 
@@ -612,6 +667,10 @@ export default function App() {
         <LoginScreen 
           currentUser={currentUser}
           setCurrentUser={setCurrentUser}
+          users={usersList}
+          onSelectUser={handleSelectUser}
+          onAddUser={handleAddUser}
+          switchingUser={switchingUser}
           pinInput={pinInput}
           setPinInput={setPinInput}
           pinError={pinError}
@@ -620,6 +679,7 @@ export default function App() {
           currentShift={currentShift}
           currentTime={currentTime}
           isWaConnected={isWaConnected}
+          waStatus={waStatus}
         />
         <QrModal 
           showQrModal={showQrModal} 
@@ -647,6 +707,10 @@ export default function App() {
         setSoundEnabled={setSoundEnabled}
         currentUser={currentUser}
         setCurrentUser={setCurrentUser}
+        users={usersList}
+        onSelectUser={handleSelectUser}
+        onAddUser={handleAddUser}
+        activeWaAccount={waStatus?.activeAccount}
         currentShift={currentShift}
         currentTime={currentTime}
         isWaConnected={isWaConnected}

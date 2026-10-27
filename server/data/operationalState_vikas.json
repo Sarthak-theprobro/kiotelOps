@@ -1,0 +1,42 @@
+{
+  "userId": "vikas",
+  "updatedAt": "2026-10-27T14:36:55.615Z",
+  "systemMeta": {
+    "lastFullSyncAt": null,
+    "lastManagerReviewAt": null,
+    "whatsappSyncHistoryLimitNote": "WhatsApp Multi-Device provides live messages from connection time plus limited recent history bundles synced by the primary phone.",
+    "lastReviewedBy": "Sarthak (Ops Manager)"
+  },
+  "teamRoster": [
+    {
+      "id": "DIR-1",
+      "name": "Dhiren",
+      "role": "Director",
+      "phone": "",
+      "level": "EXECUTIVE",
+      "shift": "ALL"
+    },
+    {
+      "id": "OPS-1",
+      "name": "Sarthak",
+      "role": "Operations Manager",
+      "phone": "",
+      "level": "OPS_MANAGER",
+      "shift": "ALL"
+    },
+    {
+      "id": "OPS-2",
+      "name": "Vikas",
+      "role": "Operations Manager",
+      "phone": "",
+      "level": "OPS_MANAGER",
+      "shift": "ALL"
+    }
+  ],
+  "whatsappGroups": [],
+  "properties": [],
+  "incidents": [],
+  "messageLogs": [],
+  "shiftHandovers": [],
+  "auditLogs": []
+}

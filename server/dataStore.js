@@ -12,6 +12,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const DATA_DIR = path.resolve(__dirname, 'data');
 const STATE_FILE = path.join(DATA_DIR, 'operationalState.json');
+const USERS_FILE = path.join(DATA_DIR, 'users.json');
 const TMP_STATE_FILE = path.join(os.tmpdir(), 'kiotel_operationalState.json');
 
 try {
@@ -19,6 +20,91 @@ try {
     fs.mkdirSync(DATA_DIR, { recursive: true });
   }
 } catch (_) {}
+
+// 0. Multi-User Profiles (3 default users + ability to add new users dynamically)
+export const DEFAULT_USERS = [
+  { id: 'sarthak', name: 'Sarthak', role: 'Ops Manager', label: 'Sarthak (Ops Manager)' },
+  { id: 'vikas', name: 'Vikas', role: 'Ops Manager', label: 'Vikas (Ops Manager)' },
+  { id: 'dhiren', name: 'Dhiren', role: 'Director', label: 'Dhiren (Director)' }
+];
+
+export const usersList = [...DEFAULT_USERS];
+export let activeWorkspaceUserId = 'sarthak';
+
+export const normalizeUserId = (input) => {
+  if (!input) return 'sarthak';
+  const raw = String(input).trim().toLowerCase();
+  if (raw.includes('sarthak')) return 'sarthak';
+  if (raw.includes('vikas')) return 'vikas';
+  if (raw.includes('dhiren') || raw.includes('dhuren')) return 'dhiren';
+  const byLabel = usersList.find(
+    u => u.id === raw || u.label.toLowerCase() === raw || u.name.toLowerCase() === raw
+  );
+  if (byLabel) return byLabel.id;
+  return raw.replace(/[^a-z0-9_-]/g, '') || 'sarthak';
+};
+
+export const getStateFileForUser = (userId = activeWorkspaceUserId) => {
+  const uid = normalizeUserId(userId);
+  if (process.env.VERCEL) {
+    const tmpFile = uid === 'sarthak' ? TMP_STATE_FILE : path.join(os.tmpdir(), `kiotel_operationalState_${uid}.json`);
+    if (fs.existsSync(tmpFile)) return tmpFile;
+  }
+  return uid === 'sarthak' ? STATE_FILE : path.join(DATA_DIR, `operationalState_${uid}.json`);
+};
+
+export const loadUsersList = () => {
+  try {
+    if (fs.existsSync(USERS_FILE)) {
+      const parsed = JSON.parse(fs.readFileSync(USERS_FILE, 'utf-8'));
+      if (Array.isArray(parsed) && parsed.length > 0) {
+        usersList.length = 0;
+        usersList.push(
+          ...parsed.map(u => ({
+            ...u,
+            id: u.id === 'dhuren' ? 'dhiren' : u.id,
+            name: u.name === 'Dhuren' ? 'Dhiren' : u.name,
+            label: (u.label || '').replace(/Dhuren/gi, 'Dhiren')
+          }))
+        );
+      }
+    }
+  } catch (_) {}
+};
+
+export const saveUsersList = () => {
+  try {
+    const target = process.env.VERCEL ? path.join(os.tmpdir(), 'kiotel_users.json') : USERS_FILE;
+    fs.writeFileSync(target, JSON.stringify(usersList, null, 2), 'utf-8');
+  } catch (_) {}
+};
+
+export const addUserProfile = ({ name, role = 'Operations Manager' }) => {
+  const cleanName = String(name || '').trim();
+  const cleanRole = String(role || 'Operations Manager').trim();
+  if (!cleanName) return null;
+  const id = cleanName.toLowerCase().replace(/[^a-z0-9]/g, '') || `user_${Date.now()}`;
+  const label = `${cleanName} (${cleanRole})`;
+  let existing = usersList.find(u => u.id === id || u.label.toLowerCase() === label.toLowerCase());
+  if (!existing) {
+    existing = { id, name: cleanName, role: cleanRole, label };
+    usersList.push(existing);
+    saveUsersList();
+    if (!teamRoster.some(t => t.name.toLowerCase() === cleanName.toLowerCase())) {
+      teamRoster.push({
+        id: `USR-${Date.now().toString().slice(-4)}`,
+        name: cleanName,
+        role: cleanRole,
+        phone: '',
+        level: 'OPS_MANAGER',
+        shift: 'ALL'
+      });
+    }
+  }
+  return existing;
+};
+
+loadUsersList();
 
 // 1. Kiotel Internal Personnel & Roles
 export const teamRoster = [
@@ -154,12 +240,26 @@ export const isKiotelTeamMember = (senderPhone, fromMe = false, senderName = '')
 /**
  * Load persisted state from disk on startup
  */
-export const loadPersistedState = () => {
+export const loadPersistedState = (userId = activeWorkspaceUserId) => {
   try {
-    const sourceFile = (process.env.VERCEL && fs.existsSync(TMP_STATE_FILE))
-      ? TMP_STATE_FILE
-      : STATE_FILE;
-    if (!fs.existsSync(sourceFile)) return;
+    const uid = normalizeUserId(userId);
+    activeWorkspaceUserId = uid;
+    const sourceFile = getStateFileForUser(uid);
+
+    // Clear current in-memory workspace before loading target user's state
+    whatsappGroups.length = 0;
+    properties.length = 0;
+    incidents.length = 0;
+    messageLogs.length = 0;
+    shiftHandovers.length = 0;
+    auditLogs.length = 0;
+    systemMeta.lastFullSyncAt = null;
+    systemMeta.lastManagerReviewAt = null;
+
+    if (!fs.existsSync(sourceFile)) {
+      console.log(`👤 [WORKSPACE: ${uid}] Fresh workspace ready (0 groups, 0 properties — pair WhatsApp to sync).`);
+      return;
+    }
     const raw = fs.readFileSync(sourceFile, 'utf-8');
     const parsed = JSON.parse(raw);
 
@@ -173,44 +273,40 @@ export const loadPersistedState = () => {
       );
     }
     if (Array.isArray(parsed.whatsappGroups)) {
-      whatsappGroups.length = 0;
       whatsappGroups.push(...parsed.whatsappGroups);
     }
     if (Array.isArray(parsed.properties)) {
-      properties.length = 0;
       properties.push(...parsed.properties);
     }
     if (Array.isArray(parsed.incidents)) {
-      incidents.length = 0;
       incidents.push(...parsed.incidents);
     }
     if (Array.isArray(parsed.messageLogs)) {
-      messageLogs.length = 0;
       messageLogs.push(...parsed.messageLogs.slice(0, 2000));
     }
     if (Array.isArray(parsed.shiftHandovers)) {
-      shiftHandovers.length = 0;
       shiftHandovers.push(...parsed.shiftHandovers);
     }
     if (Array.isArray(parsed.auditLogs)) {
-      auditLogs.length = 0;
       auditLogs.push(...parsed.auditLogs.slice(0, 500));
     }
     if (parsed.systemMeta) {
       Object.assign(systemMeta, parsed.systemMeta);
     }
-    console.log(`💾 [DATA STORE] Loaded persisted state: ${whatsappGroups.length} groups, ${properties.length} properties, ${incidents.length} incidents.`);
+    console.log(`💾 [DATA STORE: ${uid}] Loaded persisted state: ${whatsappGroups.length} groups, ${properties.length} properties, ${incidents.length} incidents.`);
   } catch (err) {
     console.error('⚠️ [DATA STORE] Failed to load persisted state:', err.message);
   }
 };
 
 /**
- * Save current state to disk
+ * Save current state to disk for the active user workspace
  */
-export const savePersistedState = () => {
+export const savePersistedState = (userId = activeWorkspaceUserId) => {
   try {
+    const uid = normalizeUserId(userId);
     const payload = {
+      userId: uid,
       updatedAt: new Date().toISOString(),
       systemMeta,
       teamRoster,
@@ -221,13 +317,32 @@ export const savePersistedState = () => {
       shiftHandovers: shiftHandovers.slice(0, 100),
       auditLogs: auditLogs.slice(0, 500)
     };
-    const targetFile = process.env.VERCEL ? TMP_STATE_FILE : STATE_FILE;
+    const targetFile = process.env.VERCEL
+      ? (uid === 'sarthak' ? TMP_STATE_FILE : path.join(os.tmpdir(), `kiotel_operationalState_${uid}.json`))
+      : (uid === 'sarthak' ? STATE_FILE : path.join(DATA_DIR, `operationalState_${uid}.json`));
     fs.writeFileSync(targetFile, JSON.stringify(payload, null, 2), 'utf-8');
   } catch (err) {
     try {
       fs.writeFileSync(TMP_STATE_FILE, JSON.stringify({ updatedAt: new Date().toISOString() }), 'utf-8');
     } catch (_) {}
   }
+};
+
+/**
+ * Switch the active operational workspace to a specific user (Sarthak, Vikas, Dhiren, or any newly added user)
+ */
+export const switchUserWorkspace = (targetUserIdOrLabel) => {
+  const nextUid = normalizeUserId(targetUserIdOrLabel);
+  if (nextUid !== activeWorkspaceUserId) {
+    savePersistedState(activeWorkspaceUserId);
+  }
+  loadPersistedState(nextUid);
+  return {
+    activeUserId: activeWorkspaceUserId,
+    groupsCount: whatsappGroups.length,
+    propertiesCount: properties.length,
+    incidentsCount: incidents.length
+  };
 };
 
 /**

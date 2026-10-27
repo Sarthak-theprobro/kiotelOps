@@ -24,6 +24,9 @@ import {
   teamRoster,
   auditLogs,
   systemMeta,
+  usersList,
+  activeWorkspaceUserId,
+  addUserProfile,
   savePersistedState,
   logHumanAction
 } from './dataStore.js';
@@ -42,6 +45,7 @@ import {
   syncAllWhatsAppGroups,
   sendWhatsAppMessage,
   getWhatsAppStatus,
+  switchWhatsAppUserSession,
   injectMessage
 } from './whatsapp.js';
 
@@ -649,6 +653,32 @@ app.post('/api/review-checkpoint', (req, res) => {
   logHumanAction('MANAGER_REVIEW_CHECKPOINT', effectiveActor, { timestamp: systemMeta.lastManagerReviewAt });
   broadcast('REVIEW_CHECKPOINT_UPDATED', { lastManagerReviewAt: systemMeta.lastManagerReviewAt });
   res.json({ success: true, lastManagerReviewAt: systemMeta.lastManagerReviewAt });
+});
+
+// 5b. Multi-User Profiles & Per-User WhatsApp Workspace Switching (Sarthak, Vikas, Dhiren + Add User)
+app.get('/api/users', (req, res) => {
+  res.json({
+    users: usersList,
+    activeUserId: activeWorkspaceUserId
+  });
+});
+
+app.post('/api/users', (req, res) => {
+  const { name, role = 'Operations Manager' } = req.body || {};
+  if (!name || !String(name).trim()) {
+    return res.status(400).json({ success: false, error: 'User name is required.' });
+  }
+  const created = addUserProfile({ name, role });
+  broadcast('USERS_UPDATED', { users: usersList });
+  res.json({ success: true, user: created, users: usersList });
+});
+
+app.post('/api/users/switch', async (req, res) => {
+  const { userId, userLabel } = req.body || {};
+  const target = userId || userLabel || 'sarthak';
+  const result = await switchWhatsAppUserSession(target);
+  broadcast('USER_WORKSPACE_SWITCHED', result);
+  res.json({ success: true, ...result, users: usersList });
 });
 
 // 6. Team Roster & Roles

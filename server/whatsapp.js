@@ -13,6 +13,7 @@ import pino from 'pino';
 import QRCode from 'qrcode';
 import fs from 'fs';
 import path from 'path';
+import { fileURLToPath } from 'url';
 import dns from 'dns';
 dns.setDefaultResultOrder('ipv4first');
 
@@ -24,12 +25,24 @@ import {
   properties, 
   teamRoster, 
   systemMeta, 
+  activeWorkspaceUserId,
+  normalizeUserId,
+  switchUserWorkspace,
   logHumanAction, 
   savePersistedState 
 } from './dataStore.js';
 import { broadcast } from './index.js';
 
-const AUTH_DIR = path.resolve('auth_info_baileys');
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
+let currentWhatsappUserId = 'sarthak';
+export const getAuthDirForUser = (userId = currentWhatsappUserId) => {
+  const uid = normalizeUserId(userId);
+  return uid === 'sarthak'
+    ? path.resolve(__dirname, 'auth_info_baileys')
+    : path.resolve(__dirname, `auth_info_baileys_${uid}`);
+};
 
 let connectionState = 'DISCONNECTED';
 let sock = null;
@@ -130,6 +143,7 @@ export const connectToWhatsApp = async (forceFresh = false) => {
   }
 
   try {
+    const activeAuthDir = getAuthDirForUser(currentWhatsappUserId);
     if (forceFresh) {
       if (sock) {
         try {
@@ -140,8 +154,8 @@ export const connectToWhatsApp = async (forceFresh = false) => {
         } catch (e) {}
         sock = null;
       }
-      if (fs.existsSync(AUTH_DIR)) {
-        fs.rmSync(AUTH_DIR, { recursive: true, force: true });
+      if (fs.existsSync(activeAuthDir)) {
+        fs.rmSync(activeAuthDir, { recursive: true, force: true });
       }
       currentQrDataUrl = null;
       rawQrString = null;
@@ -149,7 +163,7 @@ export const connectToWhatsApp = async (forceFresh = false) => {
       activeAccount = null;
     }
 
-    const { state, saveCreds } = await useMultiFileAuthState(AUTH_DIR);
+    const { state, saveCreds } = await useMultiFileAuthState(activeAuthDir);
 
     let version = FALLBACK_BAILEYS_VERSION;
     try {
@@ -195,8 +209,8 @@ export const connectToWhatsApp = async (forceFresh = false) => {
         if (statusCode === DisconnectReason.loggedOut) {
           connectionState = 'DISCONNECTED';
           activeAccount = null;
-          if (fs.existsSync(AUTH_DIR)) {
-            fs.rmSync(AUTH_DIR, { recursive: true, force: true });
+          if (fs.existsSync(activeAuthDir)) {
+            fs.rmSync(activeAuthDir, { recursive: true, force: true });
           }
           broadcast('WHATSAPP_DISCONNECTED', { reason: 'LOGGED_OUT' });
           broadcast('WHATSAPP_STATUS_CHANGED', getWhatsAppStatus());
@@ -471,7 +485,47 @@ export const sendWhatsAppMessage = async ({
   }
 };
 
+export const switchWhatsAppUserSession = async (targetUserIdOrLabel) => {
+  const nextUid = normalizeUserId(targetUserIdOrLabel);
+  const workspaceResult = switchUserWorkspace(nextUid);
+
+  if (nextUid !== currentWhatsappUserId) {
+    console.log(`🔄 [WHATSAPP] Switching active WhatsApp session from "${currentWhatsappUserId}" -> "${nextUid}"...`);
+    if (reconnectTimer) {
+      clearTimeout(reconnectTimer);
+      reconnectTimer = null;
+    }
+    if (sock) {
+      try {
+        sock.ev.removeAllListeners('connection.update');
+        sock.ev.removeAllListeners('messages.upsert');
+        sock.ev.removeAllListeners('messaging-history.set');
+        sock.end(undefined);
+      } catch (_) {}
+      sock = null;
+    }
+    currentWhatsappUserId = nextUid;
+    connectionState = 'DISCONNECTED';
+    currentQrDataUrl = null;
+    rawQrString = null;
+    qrGeneratedAt = null;
+    activeAccount = null;
+    isInitializing = false;
+
+    discoverAndSyncPropertiesFromGroups();
+    connectToWhatsApp(false);
+  } else {
+    discoverAndSyncPropertiesFromGroups();
+  }
+
+  return {
+    ...workspaceResult,
+    whatsappStatus: getWhatsAppStatus()
+  };
+};
+
 export const getWhatsAppStatus = () => ({
+  activeUserId: currentWhatsappUserId,
   state: connectionState,
   isConnected: connectionState === 'CONNECTED',
   qrCode: currentQrDataUrl,

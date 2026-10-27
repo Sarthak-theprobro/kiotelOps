@@ -1,7 +1,8 @@
 {
-  "updatedAt": "2026-10-27T13:18:28.251Z",
+  "userId": "sarthak",
+  "updatedAt": "2026-10-27T14:38:26.837Z",
   "systemMeta": {
-    "lastFullSyncAt": "2026-10-26T15:06:03.655Z",
+    "lastFullSyncAt": "2026-10-27T14:38:26.283Z",
     "lastManagerReviewAt": "2026-10-18T11:29:47.342Z",
     "whatsappSyncHistoryLimitNote": "WhatsApp Multi-Device provides live messages from connection time plus limited recent history bundles synced by the primary phone.",
     "lastReviewedBy": "Sarthak (Ops Manager)"
@@ -9,7 +10,7 @@
   "teamRoster": [
     {
       "id": "DIR-1",
-      "name": "Dhuren",
+      "name": "Dhiren",
       "role": "Director",
       "phone": "",
       "level": "EXECUTIVE",
@@ -61,7 +62,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-18T11:30:45.207Z",
       "messageCount": 0,
       "groupName": "Mohit, Dhiren & Vikash"
@@ -99,7 +100,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-09-13T16:58:57.000Z",
       "messageCount": 1,
       "groupName": "Riddhi, Dhiren & Vikash"
@@ -137,7 +138,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-18T11:30:45.207Z",
       "messageCount": 0,
       "groupName": "Tishank, Dhiren & Vikash"
@@ -177,7 +178,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-18T11:30:45.207Z",
       "messageCount": 0,
       "groupName": "Kiotel-Amador 1232"
@@ -220,7 +221,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-18T09:12:51.000Z",
       "messageCount": 1,
       "groupName": "Bhavi, Dhiren, Sarthak & Vikash"
@@ -263,7 +264,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-16T16:12:24.000Z",
       "messageCount": 1,
       "groupName": "Trip to Goa🥳"
@@ -306,7 +307,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-09T15:12:54.000Z",
       "messageCount": 8,
       "groupName": "WhatsApp Group 120363412552241898"
@@ -349,7 +350,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-24T17:23:41.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-24T17:23:41.000Z",
       "messageCount": 65,
       "groupName": "Sarthak, Dhiren & Vikash"
@@ -399,7 +400,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-24T17:29:19.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-24T17:29:19.000Z",
       "messageCount": 6,
       "groupName": "Handover - Super 8 by Wyndham Lenexa Overland Park/Mall Area - Kansas (KS) -1230"
@@ -450,7 +451,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T13:00:01.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T13:00:01.000Z",
       "messageCount": 8,
       "groupName": "Handover group Woodspring SC"
@@ -498,7 +499,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-25T07:40:54.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-25T07:40:54.000Z",
       "messageCount": 22,
       "groupName": "HR Ops Bhavi Dhiren"
@@ -548,7 +549,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T09:21:09.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T09:21:09.000Z",
       "messageCount": 2,
       "groupName": "Handover-Super 8 Sturbridge MA"
@@ -596,7 +597,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-22T11:59:50.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-22T11:59:50.000Z",
       "messageCount": 2,
       "groupName": "WhatsApp Group 120363410695150313"
@@ -646,7 +647,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T13:26:04.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T13:26:04.000Z",
       "messageCount": 2,
       "groupName": "Handover -- Days Inn by Wyndham WalcottDavenport"
@@ -701,7 +702,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T12:01:39.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T12:01:39.000Z",
       "messageCount": 8,
       "groupName": "Handovers - Super 8, Higginsville"
@@ -756,7 +757,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T12:00:21.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T12:00:21.000Z",
       "messageCount": 4,
       "groupName": "Handover-Days Inn Dodge City"
@@ -811,7 +812,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T09:46:28.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T09:46:28.000Z",
       "messageCount": 2,
       "groupName": "Handover's - The Grand Texarkana"
@@ -866,7 +867,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-04T01:42:16.000Z",
       "messageCount": 8,
       "groupName": "Handover- Quality Inn Dodge City"
@@ -921,7 +922,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-06T09:54:56.000Z",
       "messageCount": 11,
       "groupName": "Handover’s Baymont Marshalltown"
@@ -976,7 +977,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T09:48:42.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T09:48:42.000Z",
       "messageCount": 2,
       "groupName": "Handovers - Red Lion Olathe"
@@ -1031,7 +1032,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T09:52:10.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T09:52:10.000Z",
       "messageCount": 2,
       "groupName": "Handovers Super 8 Independence Kansas"
@@ -1086,7 +1087,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T12:59:40.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T12:59:40.000Z",
       "messageCount": 9,
       "groupName": "Handover - Woodspring Suites, Columbiana"
@@ -1146,7 +1147,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T11:06:11.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T11:06:11.000Z",
       "messageCount": 10,
       "groupName": "Handover-Americinn Reedsburg"
@@ -1201,7 +1202,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T09:40:45.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T09:40:45.000Z",
       "messageCount": 2,
       "groupName": "Handovers - Super 8 Salem"
@@ -1256,7 +1257,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T09:34:13.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T09:34:13.000Z",
       "messageCount": 5,
       "groupName": "Handover -- Days Inn - Troy,IL"
@@ -1311,7 +1312,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-24T22:04:11.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-24T22:04:11.000Z",
       "messageCount": 14,
       "groupName": "Handover's - Studio 51 Phoenix AZ"
@@ -1366,7 +1367,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T09:36:46.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T09:36:46.000Z",
       "messageCount": 2,
       "groupName": "Handover -- Quality Inn & Suites Kansas City"
@@ -1426,7 +1427,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-18T11:30:45.207Z",
       "messageCount": 0,
       "groupName": "1890 No Delay Response Control"
@@ -1486,7 +1487,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T13:33:02.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T13:33:02.000Z",
       "messageCount": 1,
       "groupName": "S8 Mound City – No Delay Response Group"
@@ -1546,7 +1547,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-09-26T18:40:05.000Z",
       "messageCount": 1,
       "groupName": "1256-Kiotel ADMIN"
@@ -1606,7 +1607,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T09:39:15.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T09:39:15.000Z",
       "messageCount": 6,
       "groupName": "Handover’s Hotel Aspen Flagstaff"
@@ -1666,7 +1667,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-25T01:00:56.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-25T01:00:56.000Z",
       "messageCount": 10,
       "groupName": "HANDOVER- Super8 Kansas City at Barry road/Airport"
@@ -1726,7 +1727,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-25T16:05:50.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-25T16:05:50.000Z",
       "messageCount": 9,
       "groupName": "Handovers Motel 6 Moses Lake - 1209"
@@ -1792,7 +1793,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-18T11:30:45.207Z",
       "messageCount": 0,
       "groupName": "Sunshine & Palm Cove No Delay Response Control"
@@ -1852,7 +1853,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-25T00:01:47.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-25T00:01:47.000Z",
       "messageCount": 6,
       "groupName": "HANDOVER - Amador Hotel"
@@ -1912,7 +1913,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T13:00:48.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T13:00:48.000Z",
       "messageCount": 4,
       "groupName": "HANDOVER M6 PRESCOTT, AZ"
@@ -1972,7 +1973,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-04T12:01:42.000Z",
       "messageCount": 25,
       "groupName": "Handover’s Econo Lodge Cortez CO"
@@ -2032,7 +2033,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-15T14:06:55.000Z",
       "messageCount": 3,
       "groupName": "Handover - Rodeway/Suburban Brazil Indiana"
@@ -2092,7 +2093,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T09:36:39.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T09:36:39.000Z",
       "messageCount": 2,
       "groupName": "Handovers - 1890 Sleepover Casey IL"
@@ -2152,7 +2153,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T09:34:58.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T09:34:58.000Z",
       "messageCount": 2,
       "groupName": "Handovers Penn Lodge Hotel"
@@ -2210,7 +2211,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-18T11:30:45.207Z",
       "messageCount": 0,
       "groupName": "Kiotel - Manager - Vatsal, Raj,  Smit, Vikash, Dhiren"
@@ -2270,7 +2271,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-25T06:07:02.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-25T06:07:02.000Z",
       "messageCount": 6,
       "groupName": "Days Inn KCIA Handovers"
@@ -2323,7 +2324,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-25T10:37:46.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-25T10:37:46.000Z",
       "messageCount": 1,
       "groupName": "Kiotel Office Boy Group"
@@ -2383,7 +2384,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-24T17:36:13.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-24T17:36:13.000Z",
       "messageCount": 14,
       "groupName": "Handover-Super 8  Lake Havasu"
@@ -2443,7 +2444,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T13:00:46.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T13:00:46.000Z",
       "messageCount": 7,
       "groupName": "Handovers SureStay Williams"
@@ -2503,7 +2504,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T12:00:21.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T12:00:21.000Z",
       "messageCount": 9,
       "groupName": "Handover's - Knights Inn Harrisonville"
@@ -2561,7 +2562,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T13:30:22.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T13:30:22.000Z",
       "messageCount": 129,
       "groupName": "Sonesta daily Ops"
@@ -2621,7 +2622,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T13:12:24.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T13:12:24.000Z",
       "messageCount": 8,
       "groupName": "Handover’s Quality inn South Fork CO"
@@ -2686,7 +2687,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T09:44:01.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T09:44:01.000Z",
       "messageCount": 11,
       "groupName": "Handover Super 8  Alamosa"
@@ -2752,7 +2753,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-24T18:53:46.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-24T18:53:46.000Z",
       "messageCount": 14,
       "groupName": "Kiotel-Day's Inn KCIA/S8 Lenexa Transaction Reports"
@@ -2817,7 +2818,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T11:06:48.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T11:06:48.000Z",
       "messageCount": 11,
       "groupName": "HANDOVER- Redroof Cameron"
@@ -2882,73 +2883,10 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-18T11:30:45.207Z",
       "messageCount": 0,
       "groupName": "Handover  - Westbridge Inn and Suites Clinton MO"
-    },
-    {
-      "groupId": "120363427139875462@g.us",
-      "name": "Sales&Marketing @Kiotel",
-      "participantCount": 8,
-      "participants": [
-        {
-          "jid": "148585064706051@lid",
-          "phone": "148585064706051",
-          "admin": null
-        },
-        {
-          "jid": "122549140754685@lid",
-          "phone": "122549140754685",
-          "admin": null
-        },
-        {
-          "jid": "177283415449664@lid",
-          "phone": "177283415449664",
-          "admin": null
-        },
-        {
-          "jid": "49933407285259@lid",
-          "phone": "49933407285259",
-          "admin": null
-        },
-        {
-          "jid": "64806946111731@lid",
-          "phone": "64806946111731",
-          "admin": null
-        },
-        {
-          "jid": "217866578194663@lid",
-          "phone": "217866578194663",
-          "admin": "superadmin"
-        },
-        {
-          "jid": "42340089597972@lid",
-          "phone": "42340089597972",
-          "admin": null
-        },
-        {
-          "jid": "64454708478090@lid",
-          "phone": "64454708478090",
-          "admin": null
-        }
-      ],
-      "groupType": "INTERNAL_OPS",
-      "linkedPropertyIds": [],
-      "humanVerified": false,
-      "classificationSource": "INFERRED",
-      "classificationConfidence": "MEDIUM",
-      "relevanceReason": "Inferred property communication group from group name/context. Requires human verification of exact property mapping.",
-      "contacts": {
-        "owners": [],
-        "hotelManagers": [],
-        "kiotelStaff": []
-      },
-      "isActive": true,
-      "lastSyncedAt": "2026-10-05T12:47:22.000Z",
-      "lastAnalyzedAt": "2026-10-05T12:47:22.000Z",
-      "messageCount": 39,
-      "groupName": "Sales&Marketing @Kiotel"
     },
     {
       "groupId": "120363424307152538@g.us",
@@ -3010,7 +2948,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T09:26:38.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T09:26:38.000Z",
       "messageCount": 10,
       "groupName": "Handover’s Motel 6 Westminster S, CA"
@@ -3075,7 +3013,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T12:06:31.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T12:06:31.000Z",
       "messageCount": 9,
       "groupName": "Handover’s Quality Inn Cortez CO"
@@ -3140,7 +3078,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T13:03:47.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T13:03:47.000Z",
       "messageCount": 7,
       "groupName": "Handover's - Quality Inn Spartanburg SC"
@@ -3205,7 +3143,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-24T17:34:20.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-24T17:34:20.000Z",
       "messageCount": 7,
       "groupName": "Handover-Super 8 Meadows - VA"
@@ -3270,7 +3208,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T11:06:06.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T11:06:06.000Z",
       "messageCount": 8,
       "groupName": "Handover Baymont Waterford"
@@ -3335,7 +3273,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T09:23:08.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T09:23:08.000Z",
       "messageCount": 2,
       "groupName": "Handover’s Baymont Bellevue"
@@ -3400,7 +3338,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T09:21:00.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T09:21:00.000Z",
       "messageCount": 2,
       "groupName": "Handover- Super 8 Sparta"
@@ -3465,7 +3403,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-24T20:59:48.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-24T20:59:48.000Z",
       "messageCount": 9,
       "groupName": "Handovers Motel 6 Woodland"
@@ -3530,7 +3468,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-04T14:13:48.000Z",
       "messageCount": 9,
       "groupName": "Handover-Quality Inn & Suites Peak Pikes"
@@ -3595,7 +3533,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T09:31:12.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T09:31:12.000Z",
       "messageCount": 1,
       "groupName": "Ramada SP & Baymont SP – No Delay Response Group"
@@ -3660,7 +3598,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T09:32:47.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T09:32:47.000Z",
       "messageCount": 2,
       "groupName": "Handover-Super 8 Willcox - AZ"
@@ -3725,7 +3663,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T12:57:40.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T12:57:40.000Z",
       "messageCount": 7,
       "groupName": "Handover’s Motel 6 Flagstaff"
@@ -3790,7 +3728,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T13:26:17.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T13:26:17.000Z",
       "messageCount": 2,
       "groupName": "Handovers - Days Inn Blue Springs"
@@ -3860,7 +3798,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T12:16:11.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T12:16:11.000Z",
       "messageCount": 9,
       "groupName": "Handover's Econolodge Topeka"
@@ -3925,7 +3863,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T12:52:55.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T12:52:55.000Z",
       "messageCount": 7,
       "groupName": "Handover Days Inn And Suites Flagstaff"
@@ -3990,7 +3928,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T09:38:54.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T09:38:54.000Z",
       "messageCount": 2,
       "groupName": "Handovers Motel 6 Chino, CA"
@@ -4055,7 +3993,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T10:02:38.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T10:02:38.000Z",
       "messageCount": 13,
       "groupName": "Handover-Sure Stay, Kearney"
@@ -4120,7 +4058,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-05T17:55:54.000Z",
       "messageCount": 1,
       "groupName": "1246 - Kiotel ADMIN"
@@ -4185,7 +4123,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-21T22:53:36.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-21T22:53:36.000Z",
       "messageCount": 25,
       "groupName": "1218-Kiotel ADMIN"
@@ -4250,7 +4188,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-09-16T17:27:09.000Z",
       "messageCount": 1,
       "groupName": "1130 - Kiotel ADMIN"
@@ -4315,7 +4253,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T09:30:51.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T09:30:51.000Z",
       "messageCount": 2,
       "groupName": "Handovers - Red Roof Stroudsburg"
@@ -4380,7 +4318,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T13:00:25.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T13:00:25.000Z",
       "messageCount": 8,
       "groupName": "Handover Bellemont Best Western"
@@ -4443,7 +4381,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-18T11:30:45.207Z",
       "messageCount": 0,
       "groupName": "S8 Mound City Transaction Records"
@@ -4511,7 +4449,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T00:59:56.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T00:59:56.000Z",
       "messageCount": 3,
       "groupName": "Kiotel / SPLUS support"
@@ -4581,7 +4519,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-02T21:15:34.000Z",
       "messageCount": 1,
       "groupName": "1229 - Kiotel ADMIN"
@@ -4649,7 +4587,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-18T11:30:45.207Z",
       "messageCount": 0,
       "groupName": "1110 - Kiotel ADMIN"
@@ -4719,7 +4657,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-18T09:51:31.000Z",
       "messageCount": 1,
       "groupName": "Handovers Palm Cove"
@@ -4789,7 +4727,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T09:32:50.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T09:32:50.000Z",
       "messageCount": 2,
       "groupName": "Handover - Super 8 Mound City 1144"
@@ -4859,7 +4797,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-09-29T15:51:58.000Z",
       "messageCount": 1,
       "groupName": "1249 - Kiotel ADMIN"
@@ -4929,7 +4867,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-18T09:51:35.000Z",
       "messageCount": 1,
       "groupName": "Handover - Sunshine Inn, Holiday, FL"
@@ -4997,7 +4935,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-07T13:43:18.000Z",
       "messageCount": 48,
       "groupName": "HK CDALE IL"
@@ -5067,7 +5005,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T09:36:11.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T09:36:11.000Z",
       "messageCount": 2,
       "groupName": "Handover’s Rodeway Inn Effingham"
@@ -5137,7 +5075,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-24T18:39:04.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-24T18:39:04.000Z",
       "messageCount": 43,
       "groupName": "Kiotel 1228 operations management"
@@ -5207,7 +5145,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T09:36:44.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T09:36:44.000Z",
       "messageCount": 2,
       "groupName": "Handover’s Quality Inn Mt. Vernon"
@@ -5277,7 +5215,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T11:06:07.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T11:06:07.000Z",
       "messageCount": 9,
       "groupName": "Handover’s Americinn Burlington"
@@ -5347,7 +5285,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-17T14:01:01.000Z",
       "messageCount": 1,
       "groupName": "Handover - Studio 6 Limon 1199"
@@ -5417,7 +5355,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-18T01:48:08.000Z",
       "messageCount": 1,
       "groupName": "Handovers - Days Inn Nasa"
@@ -5487,7 +5425,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T12:00:23.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T12:00:23.000Z",
       "messageCount": 9,
       "groupName": "Handover’s Motel 6 Effingham"
@@ -5557,7 +5495,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-09-14T17:18:45.000Z",
       "messageCount": 1,
       "groupName": "Handovers Motel 6 Kansas City Airport"
@@ -5627,7 +5565,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T09:56:45.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T09:56:45.000Z",
       "messageCount": 2,
       "groupName": "Handover’s Motel 6 BellRoad"
@@ -5699,7 +5637,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-03T22:11:11.000Z",
       "messageCount": 6,
       "groupName": "1105 1217 1224 - Kiotel Admin"
@@ -5769,7 +5707,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-25T21:04:56.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-25T21:04:56.000Z",
       "messageCount": 6,
       "groupName": "Handover’s - Sleep Inn Denver"
@@ -5839,7 +5777,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T09:43:58.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T09:43:58.000Z",
       "messageCount": 8,
       "groupName": "Handover’s Microtel RiceLake"
@@ -5914,7 +5852,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-17T14:13:28.000Z",
       "messageCount": 1,
       "groupName": "Handovers- Econo Lodge Cortez CO"
@@ -5989,7 +5927,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-21T23:24:14.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-21T23:24:14.000Z",
       "messageCount": 6,
       "groupName": "1244 - Kiotel ADMIN"
@@ -6062,7 +6000,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T12:37:59.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T12:37:59.000Z",
       "messageCount": 22,
       "groupName": "Shift Managers - Kiotel"
@@ -6137,7 +6075,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T11:00:30.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T11:00:30.000Z",
       "messageCount": 1,
       "groupName": "Kiotel-Americinn By Wyndham Reedsburg 1224"
@@ -6212,7 +6150,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-24T19:54:12.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-24T19:54:12.000Z",
       "messageCount": 28,
       "groupName": "Kiotel - Days Inn Kingdom City -- 1218"
@@ -6292,7 +6230,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-18T02:47:16.000Z",
       "messageCount": 1,
       "groupName": "Kiotel - Motel 6 Chino, CA 1148"
@@ -6367,7 +6305,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T10:00:40.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T10:00:40.000Z",
       "messageCount": 25,
       "groupName": "Kiotel - Baymont Marshalltown, IA 1189"
@@ -6447,7 +6385,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T12:15:58.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T12:15:58.000Z",
       "messageCount": 26,
       "groupName": "Kiotel - Econolodge Topeka 1195"
@@ -6520,7 +6458,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T13:10:54.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T13:10:54.000Z",
       "messageCount": 1,
       "groupName": "Managers & Ops"
@@ -6595,7 +6533,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T12:05:17.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T12:05:17.000Z",
       "messageCount": 18,
       "groupName": "Kiotel - Super 8 Alamosa 1197"
@@ -6668,7 +6606,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-04T14:33:51.000Z",
       "messageCount": 39,
       "groupName": "Onboarding / Installation"
@@ -6748,7 +6686,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T10:09:07.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T10:09:07.000Z",
       "messageCount": 2,
       "groupName": "Kiotel - Super 8, Salem, IL 1143"
@@ -6823,7 +6761,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T13:00:42.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T13:00:42.000Z",
       "messageCount": 1,
       "groupName": "Kiotel - BW Bellemont 1238"
@@ -6898,7 +6836,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-23T19:14:26.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-23T19:14:26.000Z",
       "messageCount": 2,
       "groupName": "1231 - Kiotel ADMIN"
@@ -6973,7 +6911,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T09:23:02.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T09:23:02.000Z",
       "messageCount": 2,
       "groupName": "Handover - Carbondale University Inn"
@@ -7048,7 +6986,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-15T00:41:48.000Z",
       "messageCount": 24,
       "groupName": "Kiotel - AmericInn Burlington WI 1105"
@@ -7123,7 +7061,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T11:04:21.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T11:04:21.000Z",
       "messageCount": 1,
       "groupName": "Kiotel - Microtel Rice Lake 1112"
@@ -7203,7 +7141,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T10:16:04.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T10:16:04.000Z",
       "messageCount": 2,
       "groupName": "Kiotel - Super 8 Independence MO - 1160"
@@ -7283,7 +7221,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T12:48:01.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T12:48:01.000Z",
       "messageCount": 2,
       "groupName": "Kiotel - 1890 Sleepover, Casey IL 1180"
@@ -7358,7 +7296,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-18T11:30:45.207Z",
       "messageCount": 0,
       "groupName": "1103 - Kiotel Admin"
@@ -7433,7 +7371,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-01T18:51:15.000Z",
       "messageCount": 1,
       "groupName": "1143 - Kiotel Admin"
@@ -7501,7 +7439,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-25T08:29:27.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-25T08:29:27.000Z",
       "messageCount": 44,
       "groupName": "Kiotel - Quality Assurance"
@@ -7576,7 +7514,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-09-15T03:29:48.000Z",
       "messageCount": 1,
       "groupName": "Kiotel - Motel 6 Kansas City Airport - 1158"
@@ -7651,7 +7589,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-18T06:11:55.000Z",
       "messageCount": 1,
       "groupName": "Kiotel - Quality Inn Cortez 1120"
@@ -7726,7 +7664,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T09:25:57.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T09:25:57.000Z",
       "messageCount": 2,
       "groupName": "Handover's Motel 6 Corona"
@@ -7801,7 +7739,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T13:02:49.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T13:02:49.000Z",
       "messageCount": 2,
       "groupName": "Kiotel - WoodSpring Suites - 1176 Anderson"
@@ -7881,7 +7819,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T11:01:09.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T11:01:09.000Z",
       "messageCount": 1,
       "groupName": "Kiotel -- Days Inn - Troy,IL 1249"
@@ -7961,7 +7899,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-18T09:55:18.000Z",
       "messageCount": 1,
       "groupName": "Kiotel - Quality Inn Mt. Vernon 1088"
@@ -8046,7 +7984,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T13:25:27.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T13:25:27.000Z",
       "messageCount": 1,
       "groupName": "Kiotel - SureStay Williams 1130"
@@ -8119,9 +8057,9 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
-      "lastAnalyzedAt": "2026-10-18T11:30:45.207Z",
-      "messageCount": 0,
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
+      "lastAnalyzedAt": "2026-10-27T14:37:25.000Z",
+      "messageCount": 1,
       "groupName": "Rodeway Housekeeping"
     },
     {
@@ -8199,7 +8137,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-25T01:00:21.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-25T01:00:21.000Z",
       "messageCount": 14,
       "groupName": "Kiotel - Streamside On Fall River 1103"
@@ -8274,7 +8212,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-16T13:17:40.000Z",
       "messageCount": 1,
       "groupName": "1189 - Kiotel Admin"
@@ -8349,7 +8287,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T11:04:46.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T11:04:46.000Z",
       "messageCount": 1,
       "groupName": "Kiotel - AmericInn Burlington WI 1105"
@@ -8427,7 +8365,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-18T11:30:45.207Z",
       "messageCount": 0,
       "groupName": "1123 - Kiotel ADMIN"
@@ -8507,7 +8445,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-24T15:08:40.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-24T15:08:40.000Z",
       "messageCount": 17,
       "groupName": "1116 - Kiotel ADMIN"
@@ -8597,7 +8535,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T13:02:04.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T13:02:04.000Z",
       "messageCount": 2,
       "groupName": "Kiotel - Woodspring Suites, Columbia Irmo 1177"
@@ -8682,7 +8620,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-18T10:14:42.000Z",
       "messageCount": 1,
       "groupName": "Kiotel -- Days Inn Walcott 1245"
@@ -8767,7 +8705,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T09:19:42.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T09:19:42.000Z",
       "messageCount": 2,
       "groupName": "Kiotel - Super 8, Sturbridge MA 1174"
@@ -8852,7 +8790,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-24T21:00:23.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-24T21:00:23.000Z",
       "messageCount": 18,
       "groupName": "Kiotel - Super 8 Lake Havasu 1226"
@@ -8932,7 +8870,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T11:05:40.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T11:05:40.000Z",
       "messageCount": 1,
       "groupName": "Kiotel - Redroof Cameron 1184"
@@ -9017,7 +8955,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T10:22:35.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T10:22:35.000Z",
       "messageCount": 2,
       "groupName": "Kiotel - FRONT DESK Penn Lodge 1171"
@@ -9097,7 +9035,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-18T11:30:45.207Z",
       "messageCount": 0,
       "groupName": "Kiotel - Rodeway Inn Effingham 1118"
@@ -9177,7 +9115,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-08T19:07:00.000Z",
       "messageCount": 1,
       "groupName": "1232 1233 - Kiotel Admin"
@@ -9262,7 +9200,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-18T02:53:38.000Z",
       "messageCount": 1,
       "groupName": "Kiotel - Hotel Aspen Inn Flagstaff AZ 1150"
@@ -9347,7 +9285,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T13:35:26.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T13:35:26.000Z",
       "messageCount": 2,
       "groupName": "Kiotel - Super 8 Kansas City 1194"
@@ -9427,7 +9365,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T12:21:16.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T12:21:16.000Z",
       "messageCount": 2,
       "groupName": "Kiotel - Days Inn Dodge city 1204"
@@ -9507,7 +9445,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T09:30:40.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T09:30:40.000Z",
       "messageCount": 9,
       "groupName": "Handover -Sonesta ES Suites Fresno"
@@ -9587,7 +9525,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-23T14:18:13.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-23T14:18:13.000Z",
       "messageCount": 4,
       "groupName": "1113 - Kiotel ADMIN"
@@ -9672,7 +9610,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-23T21:40:08.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-23T21:40:08.000Z",
       "messageCount": 4,
       "groupName": "1144 - Kiotel Admin"
@@ -9752,7 +9690,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T11:00:38.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T11:00:38.000Z",
       "messageCount": 1,
       "groupName": "Kiotel - Baymont Waterford Wi 1217"
@@ -9837,7 +9775,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-18T02:21:34.000Z",
       "messageCount": 1,
       "groupName": "Kiotel - Rodeway Suburban Brazil Indiana 1208"
@@ -9922,7 +9860,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-17T23:10:50.000Z",
       "messageCount": 1,
       "groupName": "Kiotel - Econo Lodge Cortez 1121"
@@ -10007,7 +9945,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T10:26:06.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T10:26:06.000Z",
       "messageCount": 9,
       "groupName": "Kiotel - Super 8 Willcox 1213"
@@ -10092,7 +10030,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-18T11:30:45.207Z",
       "messageCount": 0,
       "groupName": "Kiotel - Motel 6 Westminster S, CA"
@@ -10172,7 +10110,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-17T01:39:38.000Z",
       "messageCount": 3,
       "groupName": "1248 - Kiotel ADMIN"
@@ -10252,7 +10190,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T13:00:12.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T13:00:12.000Z",
       "messageCount": 21,
       "groupName": "Kiotel - Quality Inn Dodgecity 1205"
@@ -10332,7 +10270,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-18T00:49:56.000Z",
       "messageCount": 1,
       "groupName": "1138 Admin - Kiotel"
@@ -10417,9 +10355,9 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
-      "lastAnalyzedAt": "2026-10-07T11:31:16.000Z",
-      "messageCount": 28,
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
+      "lastAnalyzedAt": "2026-10-27T14:38:48.000Z",
+      "messageCount": 29,
       "groupName": "Kiotel - Studio 51 Phoenix AZ - 1147"
     },
     {
@@ -10502,7 +10440,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T11:42:37.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T11:42:37.000Z",
       "messageCount": 1,
       "groupName": "Kiotel - Days Inn & Suites Nasa 1138"
@@ -10587,7 +10525,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T11:41:24.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T11:41:24.000Z",
       "messageCount": 35,
       "groupName": "Kiotel - Days Inn Blue Springs MO 1157"
@@ -10677,7 +10615,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-18T11:30:45.207Z",
       "messageCount": 0,
       "groupName": "Kiotel - Quality Inn Spartanburg SC 1141"
@@ -10767,7 +10705,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T12:03:38.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T12:03:38.000Z",
       "messageCount": 2,
       "groupName": "Kiotel - Knights Inn Harrisonville Missouri 1239"
@@ -10857,7 +10795,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T13:34:49.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T13:34:49.000Z",
       "messageCount": 29,
       "groupName": "Kiotel -Sleep Inn Denver 1178"
@@ -10947,7 +10885,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T13:52:53.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T13:52:53.000Z",
       "messageCount": 37,
       "groupName": "Kiotel - Days Inn KCIA 1156"
@@ -11037,7 +10975,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-18T09:40:49.000Z",
       "messageCount": 1,
       "groupName": "Kiotel - Motel 6 Corona CA 1163"
@@ -11127,7 +11065,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T10:27:14.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T10:27:14.000Z",
       "messageCount": 2,
       "groupName": "🖥️ Kiotel - Palm Cove Motel, Clearwater, FL 1183"
@@ -11212,7 +11150,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-09-22T19:23:33.000Z",
       "messageCount": 1,
       "groupName": "1219 1220 - Kiotel Admin"
@@ -11297,7 +11235,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T12:01:48.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T12:01:48.000Z",
       "messageCount": 1,
       "groupName": "Kiotel - Super 8, Higginsville 1159"
@@ -11382,7 +11320,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-18T02:33:28.000Z",
       "messageCount": 1,
       "groupName": "Kiotel-Quality Inn Peaks Pikes 1200"
@@ -11472,7 +11410,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T13:19:57.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T13:19:57.000Z",
       "messageCount": 2,
       "groupName": "Kiotel - Super 8 Sparta 1242"
@@ -11555,7 +11493,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-09-29T17:26:19.000Z",
       "messageCount": 1,
       "groupName": "Kiotel Hospitality - Nutan Refrigeration"
@@ -11640,7 +11578,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T10:09:06.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T10:09:06.000Z",
       "messageCount": 21,
       "groupName": "Kiotel-Sure stay Kearney 1167"
@@ -11730,7 +11668,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T12:00:17.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T12:00:17.000Z",
       "messageCount": 2,
       "groupName": "Kiotel - Baymont Bellevue 1126"
@@ -11815,7 +11753,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-06T17:49:58.000Z",
       "messageCount": 4,
       "groupName": "1227 - Kiotel ADMIN"
@@ -11900,7 +11838,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T12:40:13.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T12:40:13.000Z",
       "messageCount": 23,
       "groupName": "KIOTEL - MOTEL 6 EFFINGHAM IL 1187"
@@ -11990,7 +11928,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T10:29:45.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T10:29:45.000Z",
       "messageCount": 2,
       "groupName": "Kiotel-The Grand Texarkana, 1229"
@@ -12080,7 +12018,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-18T03:04:28.000Z",
       "messageCount": 1,
       "groupName": "Kiotel - Studio 6 Limon 1199"
@@ -12165,7 +12103,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-18T05:36:13.000Z",
       "messageCount": 1,
       "groupName": "Motel6 Moses Lake-1209"
@@ -12255,7 +12193,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T13:12:13.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T13:12:13.000Z",
       "messageCount": 2,
       "groupName": "Kiotel - South Fork Quality Inn 1106"
@@ -12340,7 +12278,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T11:08:24.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T11:08:24.000Z",
       "messageCount": 1,
       "groupName": "Kiotel- Westbridge Clinton 1237"
@@ -12430,7 +12368,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-18T06:22:19.000Z",
       "messageCount": 1,
       "groupName": "Kiotel - Days Inn and Suites - Flagstaff 1128"
@@ -12525,7 +12463,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T10:27:00.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T10:27:00.000Z",
       "messageCount": 2,
       "groupName": "Kiotel - Sunshine Inn, Holiday, FL 1179"
@@ -12615,7 +12553,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-05T17:27:26.000Z",
       "messageCount": 1,
       "groupName": "1237 - Kiotel ADMIN"
@@ -12710,7 +12648,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-24T19:45:04.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-24T19:45:04.000Z",
       "messageCount": 46,
       "groupName": "Kiotel-Americas Best Value Inn 1196"
@@ -12805,7 +12743,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-18T11:30:45.207Z",
       "messageCount": 0,
       "groupName": "Kiotel - Motel 6 Prescott, AZ 86301, United States --1198"
@@ -12900,7 +12838,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T12:52:46.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T12:52:46.000Z",
       "messageCount": 55,
       "groupName": "Kiotel - Red Roof Inn Stroudsburg 1164"
@@ -12990,7 +12928,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-18T05:57:20.000Z",
       "messageCount": 1,
       "groupName": "Kiotel - Motel 6 Tempe Broadway 1149"
@@ -13085,7 +13023,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-03T17:55:37.000Z",
       "messageCount": 18,
       "groupName": "Kiotel - Super 8 by Wyndham Lenexa Kansas (KS) -1230"
@@ -13185,7 +13123,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T13:27:57.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T13:27:57.000Z",
       "messageCount": 2,
       "groupName": "Kiotel - Sonesta ES Suites Fresno 1215"
@@ -13285,7 +13223,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T13:26:12.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T13:26:12.000Z",
       "messageCount": 1,
       "groupName": "Kiotel - Motel 6 Bellroad, AZ -- 1182"
@@ -13385,7 +13323,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-18T10:35:27.000Z",
       "messageCount": 1,
       "groupName": "Kiotel - Quality Inn Kansas City 1207"
@@ -13485,7 +13423,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T09:34:34.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T09:34:34.000Z",
       "messageCount": 2,
       "groupName": "Kiotel - Red Lion Inn & Suites Olathe Kansas 1185"
@@ -13585,7 +13523,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-18T11:30:45.207Z",
       "messageCount": 0,
       "groupName": "Kiotel  - Motel 6 Woodland 1146"
@@ -13685,7 +13623,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T09:54:57.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T09:54:57.000Z",
       "messageCount": 2,
       "groupName": "Kiotel - Super 8 Meadows VA 1228"
@@ -13785,7 +13723,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T13:48:19.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T13:48:19.000Z",
       "messageCount": 2,
       "groupName": "Kiotel - Motel 6 Butler Flagstaff AZ 1124"
@@ -13880,7 +13818,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-25T19:43:11.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-25T19:43:11.000Z",
       "messageCount": 18,
       "groupName": "1231-- Guest Transactions - Econolodge Waterloo"
@@ -13990,7 +13928,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T12:00:25.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T12:00:25.000Z",
       "messageCount": 2,
       "groupName": "Kiotel - U Inn Carbondale 1086"
@@ -14090,7 +14028,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-18T05:47:15.000Z",
       "messageCount": 1,
       "groupName": "Kiotel - Motel 6 Priest Tempe AZ - 1210"
@@ -14195,7 +14133,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-18T11:30:45.207Z",
       "messageCount": 0,
       "groupName": "Kiotel - Ramada S Point 1087"
@@ -14300,7 +14238,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-18T11:30:45.207Z",
       "messageCount": 0,
       "groupName": "Kiotel-Super 8 Moundcity 1144"
@@ -14405,7 +14343,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-25T00:01:05.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-25T00:01:05.000Z",
       "messageCount": 38,
       "groupName": "Kiotel - Amador Hotel PIONEER 1232"
@@ -14520,7 +14458,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-18T11:33:23.000Z",
       "messageCount": 3,
       "groupName": "Kiotel - Econolodge Waterloo 1231"
@@ -14638,7 +14576,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-09T12:28:45.000Z",
       "messageCount": 48,
       "groupName": "Software Dev Team Kiotel General"
@@ -14786,158 +14724,10 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-18T08:39:30.000Z",
       "messageCount": 1,
       "groupName": "Last Minute Leave Tracker"
-    },
-    {
-      "groupId": "120363420832416149@g.us",
-      "name": "Kiotel - Tech Support",
-      "participantCount": 25,
-      "participants": [
-        {
-          "jid": "148585064706051@lid",
-          "phone": "148585064706051",
-          "admin": null
-        },
-        {
-          "jid": "184164221509739@lid",
-          "phone": "184164221509739",
-          "admin": null
-        },
-        {
-          "jid": "277811403210988@lid",
-          "phone": "277811403210988",
-          "admin": null
-        },
-        {
-          "jid": "219146562363408@lid",
-          "phone": "219146562363408",
-          "admin": null
-        },
-        {
-          "jid": "154885731401901@lid",
-          "phone": "154885731401901",
-          "admin": null
-        },
-        {
-          "jid": "6859096330255@lid",
-          "phone": "6859096330255",
-          "admin": null
-        },
-        {
-          "jid": "25013923143727@lid",
-          "phone": "25013923143727",
-          "admin": null
-        },
-        {
-          "jid": "122549140754685@lid",
-          "phone": "122549140754685",
-          "admin": null
-        },
-        {
-          "jid": "29781957599329@lid",
-          "phone": "29781957599329",
-          "admin": null
-        },
-        {
-          "jid": "215028141707336@lid",
-          "phone": "215028141707336",
-          "admin": null
-        },
-        {
-          "jid": "163372771336283@lid",
-          "phone": "163372771336283",
-          "admin": null
-        },
-        {
-          "jid": "98488012542109@lid",
-          "phone": "98488012542109",
-          "admin": null
-        },
-        {
-          "jid": "69763254485063@lid",
-          "phone": "69763254485063",
-          "admin": null
-        },
-        {
-          "jid": "9453642469491@lid",
-          "phone": "9453642469491",
-          "admin": null
-        },
-        {
-          "jid": "13280575750289@lid",
-          "phone": "13280575750289",
-          "admin": null
-        },
-        {
-          "jid": "160082172100809@lid",
-          "phone": "160082172100809",
-          "admin": null
-        },
-        {
-          "jid": "76042412765355@lid",
-          "phone": "76042412765355",
-          "admin": null
-        },
-        {
-          "jid": "204238663774329@lid",
-          "phone": "204238663774329",
-          "admin": null
-        },
-        {
-          "jid": "177283415449664@lid",
-          "phone": "177283415449664",
-          "admin": null
-        },
-        {
-          "jid": "49933407285259@lid",
-          "phone": "49933407285259",
-          "admin": "admin"
-        },
-        {
-          "jid": "10226484957230@lid",
-          "phone": "10226484957230",
-          "admin": null
-        },
-        {
-          "jid": "226087263043710@lid",
-          "phone": "226087263043710",
-          "admin": null
-        },
-        {
-          "jid": "217866578194663@lid",
-          "phone": "217866578194663",
-          "admin": "superadmin"
-        },
-        {
-          "jid": "42340089597972@lid",
-          "phone": "42340089597972",
-          "admin": "admin"
-        },
-        {
-          "jid": "64454708478090@lid",
-          "phone": "64454708478090",
-          "admin": null
-        }
-      ],
-      "groupType": "TECH_SUPPORT",
-      "linkedPropertyIds": [],
-      "humanVerified": false,
-      "classificationSource": "INFERRED",
-      "classificationConfidence": "HIGH",
-      "relevanceReason": "Technical support, kiosk hardware, and PMS troubleshooting group.",
-      "contacts": {
-        "owners": [],
-        "hotelManagers": [],
-        "kiotelStaff": []
-      },
-      "isActive": true,
-      "lastSyncedAt": "2026-10-07T09:26:46.000Z",
-      "lastAnalyzedAt": "2026-10-07T09:26:46.000Z",
-      "messageCount": 22,
-      "groupName": "Kiotel - Tech Support"
     },
     {
       "groupId": "120363418465520194@g.us",
@@ -15217,9 +15007,9 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
-      "lastAnalyzedAt": "2026-10-18T08:57:44.000Z",
-      "messageCount": 1,
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
+      "lastAnalyzedAt": "2026-10-27T14:37:25.000Z",
+      "messageCount": 2,
       "groupName": "All"
     },
     {
@@ -15500,7 +15290,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-25T06:41:52.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-25T06:41:52.000Z",
       "messageCount": 21,
       "groupName": "REVIEW TRACKER"
@@ -15788,7 +15578,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-18T11:33:50.000Z",
       "messageCount": 1,
       "groupName": "SHIFT LOGS BACKUP"
@@ -16121,76 +15911,10 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-18T11:30:45.207Z",
       "messageCount": 0,
       "groupName": "HELP Group"
-    },
-    {
-      "groupId": "120363429006621371@g.us",
-      "name": "WhatsApp Group 120363429006621371",
-      "groupName": "WhatsApp Group 120363429006621371",
-      "participantCount": 0,
-      "participants": [],
-      "groupType": "INTERNAL_OPS",
-      "linkedPropertyIds": [],
-      "humanVerified": false,
-      "classificationSource": "INFERRED",
-      "classificationConfidence": "LOW",
-      "relevanceReason": "Group type and property association cannot be determined automatically from name alone. Needs human verification.",
-      "contacts": {
-        "owners": [],
-        "hotelManagers": [],
-        "kiotelStaff": []
-      },
-      "isActive": true,
-      "lastSyncedAt": "2026-09-21T04:34:40.000Z",
-      "lastAnalyzedAt": "2026-09-21T04:34:40.000Z",
-      "messageCount": 1
-    },
-    {
-      "groupId": "120363430746933992@g.us",
-      "name": "WhatsApp Group 120363430746933992",
-      "groupName": "WhatsApp Group 120363430746933992",
-      "participantCount": 0,
-      "participants": [],
-      "groupType": "INTERNAL_OPS",
-      "linkedPropertyIds": [],
-      "humanVerified": false,
-      "classificationSource": "INFERRED",
-      "classificationConfidence": "LOW",
-      "relevanceReason": "Group type and property association cannot be determined automatically from name alone. Needs human verification.",
-      "contacts": {
-        "owners": [],
-        "hotelManagers": [],
-        "kiotelStaff": []
-      },
-      "isActive": true,
-      "lastSyncedAt": "2026-10-04T00:02:52.000Z",
-      "lastAnalyzedAt": "2026-10-04T00:02:52.000Z",
-      "messageCount": 39
-    },
-    {
-      "groupId": "120363158700876871@g.us",
-      "name": "WhatsApp Group 120363158700876871",
-      "groupName": "WhatsApp Group 120363158700876871",
-      "participantCount": 0,
-      "participants": [],
-      "groupType": "INTERNAL_OPS",
-      "linkedPropertyIds": [],
-      "humanVerified": false,
-      "classificationSource": "INFERRED",
-      "classificationConfidence": "LOW",
-      "relevanceReason": "Group type and property association cannot be determined automatically from name alone. Needs human verification.",
-      "contacts": {
-        "owners": [],
-        "hotelManagers": [],
-        "kiotelStaff": []
-      },
-      "isActive": true,
-      "lastSyncedAt": "2026-10-05T12:36:47.000Z",
-      "lastAnalyzedAt": "2026-10-05T12:36:47.000Z",
-      "messageCount": 20
     },
     {
       "groupId": "120363411714816181@g.us",
@@ -16230,7 +15954,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-23T16:35:56.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-23T16:35:56.000Z",
       "messageCount": 1,
       "groupName": "Review KCIA & Lenexa"
@@ -16278,9 +16002,9 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-25T01:58:50.000Z",
-      "lastAnalyzedAt": "2026-10-25T01:58:50.000Z",
-      "messageCount": 9,
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
+      "lastAnalyzedAt": "2026-10-27T14:37:58.000Z",
+      "messageCount": 11,
       "groupName": "Fairfield review"
     },
     {
@@ -16326,7 +16050,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T15:06:03.655Z",
       "messageCount": 0,
       "groupName": "Kiotel - Diwali party dinner"
@@ -16374,7 +16098,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T12:35:34.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T12:35:34.000Z",
       "messageCount": 1,
       "groupName": "Kiotel-Lifelong"
@@ -16427,7 +16151,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T15:06:03.655Z",
       "messageCount": 0,
       "groupName": "WhatsApp Group 120363432505886350"
@@ -16435,7 +16159,7 @@
     {
       "groupId": "120363414484889178@g.us",
       "name": "Kiotel-Day inn Fayetteville  1247",
-      "participantCount": 8,
+      "participantCount": 9,
       "participants": [
         {
           "jid": "148585064706051@lid",
@@ -16460,6 +16184,11 @@
         {
           "jid": "163372771336283@lid",
           "phone": "163372771336283",
+          "admin": null
+        },
+        {
+          "jid": "66585599422610@lid",
+          "phone": "66585599422610",
           "admin": null
         },
         {
@@ -16492,7 +16221,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T15:06:03.655Z",
       "messageCount": 0,
       "groupName": "Kiotel-Day inn Fayetteville  1247"
@@ -16562,7 +16291,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-24T19:42:19.000Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-24T19:42:19.000Z",
       "messageCount": 2,
       "groupName": "1181 - Kiotel ADMIN"
@@ -16637,7 +16366,7 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T15:06:03.655Z",
       "messageCount": 0,
       "groupName": "1247 - Kiotel ADMIN"
@@ -16718,10 +16447,55 @@
         "kiotelStaff": []
       },
       "isActive": true,
-      "lastSyncedAt": "2026-10-26T15:06:03.655Z",
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
       "lastAnalyzedAt": "2026-10-26T15:06:03.655Z",
       "messageCount": 0,
       "groupName": "1204 1205 - Kiotel Admin"
+    },
+    {
+      "groupId": "120363412821020954@g.us",
+      "name": "Kiotel-Jio(Bipin)",
+      "participantCount": 4,
+      "participants": [
+        {
+          "jid": "148585064706051@lid",
+          "phone": "148585064706051",
+          "admin": "superadmin"
+        },
+        {
+          "jid": "122549140754685@lid",
+          "phone": "122549140754685",
+          "admin": null
+        },
+        {
+          "jid": "155057010045164@lid",
+          "phone": "155057010045164",
+          "admin": null
+        },
+        {
+          "jid": "49933407285259@lid",
+          "phone": "49933407285259",
+          "admin": null
+        }
+      ],
+      "groupType": "PROPERTY",
+      "linkedPropertyIds": [
+        "KIOTEL-WESTMINSTER"
+      ],
+      "humanVerified": false,
+      "classificationSource": "INFERRED",
+      "classificationConfidence": "MEDIUM",
+      "relevanceReason": "Inferred property communication group from group name/context. Requires human verification of exact property mapping.",
+      "contacts": {
+        "owners": [],
+        "hotelManagers": [],
+        "kiotelStaff": []
+      },
+      "isActive": true,
+      "lastSyncedAt": "2026-10-27T14:38:26.283Z",
+      "lastAnalyzedAt": "2026-10-27T14:36:40.327Z",
+      "messageCount": 0,
+      "groupName": "Kiotel-Jio(Bipin)"
     }
   ],
   "properties": [
@@ -16755,7 +16529,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.859Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.303Z"
       },
       "kioskCount": 1,
       "cluster": "US-Central",
@@ -16775,7 +16549,7 @@
         "source": "WhatsApp (Kiotel - 1890 Sleepover, Casey IL 1180)",
         "messageId": "AC67D54EB72BDDD4A455EEB3646D8360",
         "summary": "1890 Sleepover, Casey IL Desk: \"‼️*DAILY REMINDER*‼️ 1. Respond promptly to all incoming calls and messages on Grasshopper. 2. Regularly check\"",
-        "timestamp": "2026-10-27T13:18:27.859Z",
+        "timestamp": "2026-10-27T14:38:26.303Z",
         "originalMessageTimestamp": "2026-10-26T12:48:01.000Z"
       },
       "onboardingMeta": {
@@ -16820,7 +16594,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.818Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.301Z"
       },
       "kioskCount": 1,
       "cluster": "US-Pacific",
@@ -16842,7 +16616,7 @@
         "source": "WhatsApp (HANDOVER - Amador Hotel)",
         "messageId": "3EB01CA708D00D679E23CA",
         "summary": "Kalai: \"PM SHIFT - 10/25/2026 _*AGENT : Kalai*_ INFORMATION Please make a key for the guest that remains valid until 1\"",
-        "timestamp": "2026-10-27T13:18:27.818Z",
+        "timestamp": "2026-10-27T14:38:26.301Z",
         "originalMessageTimestamp": "2026-10-26T00:01:33.000Z"
       },
       "onboardingMeta": {
@@ -16887,7 +16661,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.869Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.312Z"
       },
       "kioskCount": 1,
       "cluster": "US-Central",
@@ -16903,7 +16677,7 @@
         "source": "WhatsApp (Kiotel-Americas Best Value Inn 1196)",
         "messageId": "3EB0F811DDD32A0F0F403D",
         "summary": "Americas Best Value Inn (#1196) Desk: \"Good Evening Team, We are closing the shift. Thank you.\"",
-        "timestamp": "2026-10-27T13:18:27.869Z",
+        "timestamp": "2026-10-27T14:38:26.312Z",
         "originalMessageTimestamp": "2026-10-26T04:12:05.000Z"
       },
       "onboardingMeta": {
@@ -16948,7 +16722,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.858Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.303Z"
       },
       "kioskCount": 1,
       "cluster": "US-Central",
@@ -16970,7 +16744,7 @@
         "source": "WhatsApp (Handover’s Americinn Burlington)",
         "messageId": "3EB00271DC3FB75BD466AF",
         "summary": "Arshi M.: \"HANDOVER - 10/25/2026 SHIFT - AM AGENT - Arshi M ━━━━━━━━━━━━━━━ *HANDOVER* No major handover *I have verified\"",
-        "timestamp": "2026-10-27T13:18:27.858Z",
+        "timestamp": "2026-10-27T14:38:26.303Z",
         "originalMessageTimestamp": "2026-10-26T11:06:07.000Z"
       },
       "onboardingMeta": {
@@ -17015,7 +16789,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.824Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.301Z"
       },
       "kioskCount": 1,
       "cluster": "US-Central",
@@ -17035,7 +16809,7 @@
         "source": "WhatsApp (Handover-Americinn Reedsburg)",
         "messageId": "3EB013D1088B8CACE3C76E",
         "summary": "Americinn By Wyndham Reedsburg (#1224) Desk: \"*HANDOVER - 10/25/2026* SHIFT - AUDIT AGENT - Arshi M ━━━━━━━━━━━━━━━ *HANDOVER* Room 107: service dog. *I hav\"",
-        "timestamp": "2026-10-27T13:18:27.824Z",
+        "timestamp": "2026-10-27T14:38:26.301Z",
         "originalMessageTimestamp": "2026-10-26T11:06:11.000Z"
       },
       "onboardingMeta": {
@@ -17080,7 +16854,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.867Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.310Z"
       },
       "kioskCount": 1,
       "cluster": "US-East",
@@ -17098,7 +16872,7 @@
         "source": "WhatsApp (Kiotel - Baymont Bellevue 1126)",
         "messageId": "A585BCEE8C190619F69D4050AC356190",
         "summary": "Baymont Bellevue (#1126) Desk: \"Call transfer tested\"",
-        "timestamp": "2026-10-27T13:18:27.867Z",
+        "timestamp": "2026-10-27T14:38:26.310Z",
         "originalMessageTimestamp": "2026-10-26T12:00:17.000Z"
       },
       "onboardingMeta": {
@@ -17143,7 +16917,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.829Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.302Z"
       },
       "kioskCount": 1,
       "cluster": "US-Central",
@@ -17163,7 +16937,7 @@
         "source": "WhatsApp (Kiotel - Baymont Marshalltown, IA 1189)",
         "messageId": "3EB0B2A0CCBD19474CC870",
         "summary": "Janvi Agarwal: \"Good Morning Team, We are closing the shift Thank you\"",
-        "timestamp": "2026-10-27T13:18:27.829Z",
+        "timestamp": "2026-10-27T14:38:26.302Z",
         "originalMessageTimestamp": "2026-10-26T10:00:40.000Z"
       },
       "onboardingMeta": {
@@ -17208,7 +16982,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.863Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.305Z"
       },
       "kioskCount": 1,
       "cluster": "US-East",
@@ -17228,7 +17002,7 @@
         "source": "WhatsApp (Handover Baymont Waterford)",
         "messageId": "3EB09844F0D489FE03ECC1",
         "summary": "Baymont Waterford Wi (#1217) Desk: \"*HANDOVER - 10/25/2026* SHIFT - AUDIT AGENT - Arshi M ━━━━━━━━━━━━━━━ *HANDOVER* No major handover *I have ver\"",
-        "timestamp": "2026-10-27T13:18:27.863Z",
+        "timestamp": "2026-10-27T14:38:26.305Z",
         "originalMessageTimestamp": "2026-10-26T11:06:06.000Z"
       },
       "onboardingMeta": {
@@ -17273,7 +17047,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.857Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.303Z"
       },
       "kioskCount": 1,
       "cluster": "US-Arizona",
@@ -17291,7 +17065,7 @@
         "source": "WhatsApp (Kiotel - BW Bellemont 1238)",
         "messageId": "3EB0F41643C577367B3CC3",
         "summary": "Dhruv P: \"Hello Team, We are closing the shift. Thank you\"",
-        "timestamp": "2026-10-27T13:18:27.857Z",
+        "timestamp": "2026-10-27T14:38:26.303Z",
         "originalMessageTimestamp": "2026-10-26T13:00:42.000Z"
       },
       "onboardingMeta": {
@@ -17336,7 +17110,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.872Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.314Z"
       },
       "kioskCount": 1,
       "cluster": "US-Central",
@@ -17354,7 +17128,7 @@
         "source": "WhatsApp Group Sync (Kiotel-Day inn Fayetteville  1247)",
         "messageId": null,
         "summary": "Active group synced (0 messages recorded)",
-        "timestamp": "2026-10-27T13:18:27.872Z",
+        "timestamp": "2026-10-27T14:38:26.314Z",
         "originalMessageTimestamp": "2026-10-26T15:06:03.655Z"
       },
       "onboardingMeta": {
@@ -17399,7 +17173,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.860Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.304Z"
       },
       "kioskCount": 1,
       "cluster": "US-Central",
@@ -17419,7 +17193,7 @@
         "source": "WhatsApp (Kiotel -- Days Inn - Troy,IL 1249)",
         "messageId": "AC02CF2DE1D2809E7EA4BBE57CC7299A",
         "summary": "Days Inn - Troy,IL (#1249) Desk: \"Call Transfer Tested\"",
-        "timestamp": "2026-10-27T13:18:27.860Z",
+        "timestamp": "2026-10-27T14:38:26.304Z",
         "originalMessageTimestamp": "2026-10-26T11:01:09.000Z"
       },
       "onboardingMeta": {
@@ -17464,7 +17238,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.864Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.306Z"
       },
       "kioskCount": 1,
       "cluster": "US-Central",
@@ -17484,7 +17258,7 @@
         "source": "WhatsApp (Kiotel - Days Inn & Suites Nasa 1138)",
         "messageId": "ACF99FE1A9A0B53DEBD8BB2D656E2070",
         "summary": "Days Inn & Suites Nasa (#1138) Desk: \"Call tranfer tested successfully.\"",
-        "timestamp": "2026-10-27T13:18:27.864Z",
+        "timestamp": "2026-10-27T14:38:26.306Z",
         "originalMessageTimestamp": "2026-10-26T11:42:37.000Z"
       },
       "onboardingMeta": {
@@ -17529,7 +17303,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.868Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.311Z"
       },
       "kioskCount": 1,
       "cluster": "US-Arizona",
@@ -17547,7 +17321,7 @@
         "source": "WhatsApp (Handover Days Inn And Suites Flagstaff)",
         "messageId": "3EB0E5ABF568A1485A892B",
         "summary": "Days Inn and Suites - Flagstaff (#1128) Desk: \"HANDOVER | Audit - Muskan sarda Date: 10/25/2026 ━━━━━━━━━━━━━━━━━━━━ INCIDENTS 🔴 ~ We have dispensed $700 to\"",
-        "timestamp": "2026-10-27T13:18:27.868Z",
+        "timestamp": "2026-10-27T14:38:26.311Z",
         "originalMessageTimestamp": "2026-10-26T12:52:55.000Z"
       },
       "onboardingMeta": {
@@ -17592,7 +17366,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.864Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.306Z"
       },
       "kioskCount": 1,
       "cluster": "US-Central",
@@ -17610,7 +17384,7 @@
         "source": "WhatsApp (Handovers - Days Inn Blue Springs)",
         "messageId": "3EB054856C2B7A32C4F7EC",
         "summary": "Days Inn Blue Springs MO (#1157) Desk: \"*AM-Suchitra* *10/26/2026* _Days Inn Bluespring_ ================================================= *TASKS & IN\"",
-        "timestamp": "2026-10-27T13:18:27.864Z",
+        "timestamp": "2026-10-27T14:38:26.306Z",
         "originalMessageTimestamp": "2026-10-26T13:26:17.000Z"
       },
       "onboardingMeta": {
@@ -17655,7 +17429,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.863Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.305Z"
       },
       "kioskCount": 1,
       "cluster": "US-Central",
@@ -17675,7 +17449,7 @@
         "source": "WhatsApp (Kiotel - Days Inn Dodge city 1204)",
         "messageId": "3EB068C08CE19E5BD1186F",
         "summary": "Mahek: \"Call transfer tested successfully\"",
-        "timestamp": "2026-10-27T13:18:27.863Z",
+        "timestamp": "2026-10-27T14:38:26.305Z",
         "originalMessageTimestamp": "2026-10-26T12:21:16.000Z"
       },
       "onboardingMeta": {
@@ -17720,7 +17494,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.866Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.308Z"
       },
       "kioskCount": 1,
       "cluster": "US-Central",
@@ -17740,7 +17514,7 @@
         "source": "WhatsApp (Kiotel - Days Inn KCIA 1156)",
         "messageId": "3EB0407DED5C5D2AC1CFD7",
         "summary": "Kishan: \"Call transfer tested\"",
-        "timestamp": "2026-10-27T13:18:27.866Z",
+        "timestamp": "2026-10-27T14:38:26.308Z",
         "originalMessageTimestamp": "2026-10-26T13:52:53.000Z"
       },
       "onboardingMeta": {
@@ -17785,7 +17559,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.825Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.302Z"
       },
       "kioskCount": 1,
       "cluster": "US-Central",
@@ -17803,7 +17577,7 @@
         "source": "WhatsApp (Kiotel - Days Inn Kingdom City -- 1218)",
         "messageId": "3EB09D0CFE92D9F79680FA",
         "summary": "Days Inn Kingdom City (#1218) Desk: \"*Shift Log* - 10/25/2026\"",
-        "timestamp": "2026-10-27T13:18:27.825Z",
+        "timestamp": "2026-10-27T14:38:26.302Z",
         "originalMessageTimestamp": "2026-10-26T09:18:23.000Z"
       },
       "onboardingMeta": {
@@ -17848,7 +17622,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.861Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.304Z"
       },
       "kioskCount": 1,
       "cluster": "US-Central",
@@ -17866,7 +17640,7 @@
         "source": "WhatsApp (Handover -- Days Inn by Wyndham WalcottDavenport)",
         "messageId": "3EB0412999213D1B07566B",
         "summary": "Microtel RiceLake Desk: \"_*AUDIT- Suchitra_* *10/26/2026* _Days Inn WALCOTT_ ================================================= *TASKS &\"",
-        "timestamp": "2026-10-27T13:18:27.861Z",
+        "timestamp": "2026-10-27T14:38:26.304Z",
         "originalMessageTimestamp": "2026-10-26T13:26:04.000Z"
       },
       "onboardingMeta": {
@@ -17911,7 +17685,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.863Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.305Z"
       },
       "kioskCount": 1,
       "cluster": "US-Mountain",
@@ -17931,7 +17705,7 @@
         "source": "WhatsApp (Kiotel - Econo Lodge Cortez 1121)",
         "messageId": "3EB04CF8E2C026903B08C3",
         "summary": "Zuveriya: \"Open on Expedia at $95\"",
-        "timestamp": "2026-10-27T13:18:27.863Z",
+        "timestamp": "2026-10-27T14:38:26.305Z",
         "originalMessageTimestamp": "2026-10-17T23:10:50.000Z"
       },
       "onboardingMeta": {
@@ -17976,7 +17750,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.831Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.302Z"
       },
       "kioskCount": 1,
       "cluster": "US-Central",
@@ -17994,7 +17768,7 @@
         "source": "WhatsApp (Handover's Econolodge Topeka)",
         "messageId": "3EB05D002A11F583AE670C",
         "summary": "Pragati: \"HANDOVER AUDIT SHIFT AGENT — Pragati Date: 10/25/2026 ━━━━━━━━━━━━━━━ *Information* None *Verbal information p\"",
-        "timestamp": "2026-10-27T13:18:27.831Z",
+        "timestamp": "2026-10-27T14:38:26.302Z",
         "originalMessageTimestamp": "2026-10-26T12:16:11.000Z"
       },
       "onboardingMeta": {
@@ -18039,7 +17813,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.871Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.314Z"
       },
       "kioskCount": 1,
       "cluster": "US-Central",
@@ -18059,7 +17833,7 @@
         "source": "WhatsApp (1231-- Guest Transactions - Econolodge Waterloo)",
         "messageId": "3EB030137083BA549CE10E",
         "summary": "Econolodge Waterloo (#1231) Desk: \"Got It Ma'am.\"",
-        "timestamp": "2026-10-27T13:18:27.871Z",
+        "timestamp": "2026-10-27T14:38:26.314Z",
         "originalMessageTimestamp": "2026-10-25T19:43:50.000Z"
       },
       "onboardingMeta": {
@@ -18104,7 +17878,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.862Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.305Z"
       },
       "kioskCount": 1,
       "cluster": "US-Arizona",
@@ -18122,7 +17896,7 @@
         "source": "WhatsApp (Handover’s Hotel Aspen Flagstaff)",
         "messageId": "3EB0567C75B975500E1B14",
         "summary": "Hotel Aspen Inn Flagstaff AZ (#1150) Desk: \"# SHIFT HANDOVER REPORT **Hotel Aspen Inn & Suites – Flagstaff** ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ **AGENT DETAILS*\"",
-        "timestamp": "2026-10-27T13:18:27.862Z",
+        "timestamp": "2026-10-27T14:38:26.305Z",
         "originalMessageTimestamp": "2026-10-26T09:39:15.000Z"
       },
       "onboardingMeta": {
@@ -18134,6 +17908,67 @@
         "detectedAgent": "Unassigned",
         "lastMessageAt": "2026-10-26T09:39:15.000Z",
         "lastMessagePreview": "# SHIFT HANDOVER REPORT **Hotel Aspen Inn & Suites – Flagstaff** ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ **AGENT DETAILS** **Agent:** Nandkishor Chargu"
+      },
+      "manualStatusOverride": null
+    },
+    {
+      "id": "KIOTEL-WESTMINSTER",
+      "propertyCode": "WESTMINSTER",
+      "name": "Jio Bipin",
+      "timezone": "America/Chicago",
+      "launchStatus": "LAUNCHED",
+      "launchDate": null,
+      "schedule": {
+        "type": "24_7",
+        "is24Hours": true,
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "verified": true
+      },
+      "operatingSchedule": {
+        "type": "24_7",
+        "is24Hours": true,
+        "startTime": "00:00",
+        "endTime": "23:59",
+        "verified": true
+      },
+      "coverage": {
+        "type": "SHARED",
+        "assignedTeamOrAgent": "Kiotel Shared Shift Pod",
+        "assignedAgents": [
+          "Kiotel Shift Pod"
+        ],
+        "assignedManager": "Sarthak",
+        "coverageConfirmed": true,
+        "confirmed": true,
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.314Z"
+      },
+      "kioskCount": 1,
+      "cluster": "US-Pacific",
+      "linkedGroupIds": [
+        "120363412821020954@g.us"
+      ],
+      "linkedGroupNames": [
+        "Kiotel-Jio(Bipin)"
+      ],
+      "humanVerified": true,
+      "customConfiguredByUser": false,
+      "lastEvidence": {
+        "source": "WhatsApp Group Sync (Kiotel-Jio(Bipin))",
+        "messageId": null,
+        "summary": "Active group synced (0 messages recorded)",
+        "timestamp": "2026-10-27T14:38:26.314Z",
+        "originalMessageTimestamp": "2026-10-27T14:36:40.327Z"
+      },
+      "onboardingMeta": {
+        "stage": "Live & Operating",
+        "progressPercent": 100,
+        "isBlocked": false,
+        "blockerReason": null,
+        "actionRequired": "None — Property Launched",
+        "detectedAgent": "Unassigned",
+        "lastMessageAt": null,
+        "lastMessagePreview": "No messages yet"
       },
       "manualStatusOverride": null
     },
@@ -18167,7 +18002,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.865Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.307Z"
       },
       "kioskCount": 1,
       "cluster": "US-Central",
@@ -18185,7 +18020,7 @@
         "source": "WhatsApp (Kiotel - Knights Inn Harrisonville Missouri 1239)",
         "messageId": "3EB031E0CC32CDAB48AF94",
         "summary": "Knights Inn Harrisonville Missouri (#1239) Desk: \"Good morning, team. We are closing the shift now. Thank you.\"",
-        "timestamp": "2026-10-27T13:18:27.865Z",
+        "timestamp": "2026-10-27T14:38:26.307Z",
         "originalMessageTimestamp": "2026-10-26T12:03:38.000Z"
       },
       "onboardingMeta": {
@@ -18230,7 +18065,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.858Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.303Z"
       },
       "kioskCount": 1,
       "cluster": "US-Central",
@@ -18248,7 +18083,7 @@
         "source": "WhatsApp (Kiotel - Microtel Rice Lake 1112)",
         "messageId": "3EB082804500D393267A13",
         "summary": "Microtel Rice Lake (#1112) Desk: \"Hello, Team We are closing the shift now. Have a good day ~Thank you`\"",
-        "timestamp": "2026-10-27T13:18:27.858Z",
+        "timestamp": "2026-10-27T14:38:26.303Z",
         "originalMessageTimestamp": "2026-10-26T11:04:21.000Z"
       },
       "onboardingMeta": {
@@ -18293,7 +18128,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.870Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.313Z"
       },
       "kioskCount": 1,
       "cluster": "US-Arizona",
@@ -18311,7 +18146,7 @@
         "source": "WhatsApp (Kiotel - Motel 6 Bellroad, AZ -- 1182)",
         "messageId": "3EB0BBA62917B0179B9DCC",
         "summary": "Motel 6 Bellroad, AZ (#1182) Desk: \"Call transfer tested\"",
-        "timestamp": "2026-10-27T13:18:27.870Z",
+        "timestamp": "2026-10-27T14:38:26.313Z",
         "originalMessageTimestamp": "2026-10-26T13:26:12.000Z"
       },
       "onboardingMeta": {
@@ -18356,7 +18191,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.871Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.314Z"
       },
       "kioskCount": 1,
       "cluster": "US-Arizona",
@@ -18374,7 +18209,7 @@
         "source": "WhatsApp (Kiotel - Motel 6 Butler Flagstaff AZ 1124)",
         "messageId": "3EB054E4F75BE8ECD12BFC",
         "summary": "Motel 6 Butler Flagstaff AZ (#1124) Desk: \"A total of 39 rooms are dirty.\"",
-        "timestamp": "2026-10-27T13:18:27.871Z",
+        "timestamp": "2026-10-27T14:38:26.314Z",
         "originalMessageTimestamp": "2026-10-26T13:48:19.000Z"
       },
       "onboardingMeta": {
@@ -18419,7 +18254,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.827Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.302Z"
       },
       "kioskCount": 1,
       "cluster": "US-Pacific",
@@ -18437,7 +18272,7 @@
         "source": "WhatsApp (Handovers Motel 6 Chino, CA)",
         "messageId": "3EB051CE717BCD612821A1",
         "summary": "Motel 6 Chino, CA (#1148) Desk: \"Audit Shift log: 10/25/2026\"",
-        "timestamp": "2026-10-27T13:18:27.827Z",
+        "timestamp": "2026-10-27T14:38:26.302Z",
         "originalMessageTimestamp": "2026-10-26T09:38:54.000Z"
       },
       "onboardingMeta": {
@@ -18482,7 +18317,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.866Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.308Z"
       },
       "kioskCount": 1,
       "cluster": "US-Pacific",
@@ -18500,7 +18335,7 @@
         "source": "WhatsApp (Handover's Motel 6 Corona)",
         "messageId": "3EB0DA7523E4C46E16D93E",
         "summary": "Motel 6 Corona CA (#1163) Desk: \"Audit Shift Closing Cash Balance: Cash Recycler: $285 Cash Box: $01\"",
-        "timestamp": "2026-10-27T13:18:27.866Z",
+        "timestamp": "2026-10-27T14:38:26.308Z",
         "originalMessageTimestamp": "2026-10-26T09:25:57.000Z"
       },
       "onboardingMeta": {
@@ -18545,7 +18380,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.867Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.311Z"
       },
       "kioskCount": 1,
       "cluster": "US-Central",
@@ -18563,7 +18398,7 @@
         "source": "WhatsApp (KIOTEL - MOTEL 6 EFFINGHAM IL 1187)",
         "messageId": "3EB04A2430225A860BC9A0",
         "summary": "MOTEL 6 EFFINGHAM IL (#1187) Desk: \"Good morning, team. We are closing the shift now. Thank you.\"",
-        "timestamp": "2026-10-27T13:18:27.867Z",
+        "timestamp": "2026-10-27T14:38:26.311Z",
         "originalMessageTimestamp": "2026-10-26T12:40:13.000Z"
       },
       "onboardingMeta": {
@@ -18608,7 +18443,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.859Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.303Z"
       },
       "kioskCount": 1,
       "cluster": "US-Central",
@@ -18626,7 +18461,7 @@
         "source": "WhatsApp (Kiotel - Motel 6 Kansas City Airport - 1158)",
         "messageId": "AC99AD152B220739B42E1C78B5B2EECC",
         "summary": "Motel 6 Kansas City Airport (#1158) Desk: \"Hello @108838883741742 Sir, As we formally conclude our engagement with Motel 6 Kansas, I want to take this op\"",
-        "timestamp": "2026-10-27T13:18:27.859Z",
+        "timestamp": "2026-10-27T14:38:26.303Z",
         "originalMessageTimestamp": "2026-09-15T03:29:48.000Z"
       },
       "onboardingMeta": {
@@ -18671,7 +18506,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.869Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.312Z"
       },
       "kioskCount": 1,
       "cluster": "US-Arizona",
@@ -18689,7 +18524,7 @@
         "source": "WhatsApp (HANDOVER M6 PRESCOTT, AZ)",
         "messageId": "3EB029BA2E846BCEA7ED05",
         "summary": "Motel 6 Prescott, AZ (#1198) Desk: \"# MOTEL 6 PRESCOTT ━━━━━━━━━━━━━━━━━━━━━━ **HANDOVER Audit SHIFT** **Date:** 25th October 2026 **Agent:** _*Dh\"",
-        "timestamp": "2026-10-27T13:18:27.869Z",
+        "timestamp": "2026-10-27T14:38:26.312Z",
         "originalMessageTimestamp": "2026-10-26T13:00:48.000Z"
       },
       "onboardingMeta": {
@@ -18734,7 +18569,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.871Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.314Z"
       },
       "kioskCount": 1,
       "cluster": "US-Arizona",
@@ -18750,7 +18585,7 @@
         "source": "WhatsApp (Kiotel - Motel 6 Priest Tempe AZ - 1210)",
         "messageId": "3EB0064AFA076C4476248B",
         "summary": "Motel 6 Priest Tempe AZ (#1210) Desk: \"Call transfer tested successfully.\"",
-        "timestamp": "2026-10-27T13:18:27.871Z",
+        "timestamp": "2026-10-27T14:38:26.314Z",
         "originalMessageTimestamp": "2026-10-18T05:47:15.000Z"
       },
       "onboardingMeta": {
@@ -18795,7 +18630,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.870Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.313Z"
       },
       "kioskCount": 1,
       "cluster": "US-Arizona",
@@ -18811,7 +18646,7 @@
         "source": "WhatsApp (Kiotel - Motel 6 Tempe Broadway 1149)",
         "messageId": "3EB060C3F0E0F03DF464DB",
         "summary": "Motel 6 Tempe Broadway (#1149) Desk: \"Call transfer tested successfully.\"",
-        "timestamp": "2026-10-27T13:18:27.870Z",
+        "timestamp": "2026-10-27T14:38:26.313Z",
         "originalMessageTimestamp": "2026-10-18T05:57:20.000Z"
       },
       "onboardingMeta": {
@@ -18856,7 +18691,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.863Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.305Z"
       },
       "kioskCount": 1,
       "cluster": "US-Pacific",
@@ -18874,7 +18709,7 @@
         "source": "WhatsApp (Handover’s Motel 6 Westminster S, CA)",
         "messageId": "3EB0397F07761F5FB4D4F4",
         "summary": "Motel 6 Westminster S, CA Desk: \"Audit Shift Closing Cash Balance: Cash Recycler: $411 Cash Box: $400\"",
-        "timestamp": "2026-10-27T13:18:27.863Z",
+        "timestamp": "2026-10-27T14:38:26.305Z",
         "originalMessageTimestamp": "2026-10-26T09:26:38.000Z"
       },
       "onboardingMeta": {
@@ -18919,7 +18754,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.871Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.313Z"
       },
       "kioskCount": 1,
       "cluster": "US-Pacific",
@@ -18937,7 +18772,7 @@
         "source": "WhatsApp (Handovers Motel 6 Woodland)",
         "messageId": "3EB0926DAAF103868DBAE2",
         "summary": "Motel 6 Woodland (#1146) Desk: \"*HANDOVER*—Oct 25th, 2026 *SHIFT* - AM *AGENT* _*Sahid*_ ━━━━━━━━━━━━━━━ *INFO:* 1. Prepaid OTA Reservations: \"",
-        "timestamp": "2026-10-27T13:18:27.871Z",
+        "timestamp": "2026-10-27T14:38:26.314Z",
         "originalMessageTimestamp": "2026-10-25T20:59:06.000Z"
       },
       "onboardingMeta": {
@@ -18982,7 +18817,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.868Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.311Z"
       },
       "kioskCount": 1,
       "cluster": "US-Pacific",
@@ -19000,7 +18835,7 @@
         "source": "WhatsApp (Handovers Motel 6 Moses Lake - 1209)",
         "messageId": "3EB0F5A829C3ABA721C7D0",
         "summary": "Motel6 Moses Lake (#1209) Desk: \"*Motel6 Moses Lake* _Date:_ 10/25/2026 AGENT- HETAL ━━━━━━━━━━━━━━━━━━━━ *INCIDENTS* 🔴 ▸ None ━━━━━━━━━━━━━━━\"",
-        "timestamp": "2026-10-27T13:18:27.868Z",
+        "timestamp": "2026-10-27T14:38:26.311Z",
         "originalMessageTimestamp": "2026-10-25T16:05:50.000Z"
       },
       "onboardingMeta": {
@@ -19061,7 +18896,7 @@
         "source": "WhatsApp (1113 - Kiotel ADMIN)",
         "messageId": "3A741E017549480F7C4A",
         "summary": "Kiotel Property #1113 Desk: \"The model numbers would be helpful. This is not somthing we’ve utilized yet but it has been our plan for this \"",
-        "timestamp": "2026-10-27T13:18:27.872Z",
+        "timestamp": "2026-10-27T14:38:26.314Z",
         "originalMessageTimestamp": "2026-10-23T14:18:13.000Z"
       },
       "onboardingMeta": {
@@ -19122,7 +18957,7 @@
         "source": "WhatsApp (1116 - Kiotel ADMIN)",
         "messageId": "3AB6FB7C709894BD2762",
         "summary": "Kiotel Property #1116 Desk: \"Sean - We have little delay and sounds like we can not start the service on November 1st. Can we start service\"",
-        "timestamp": "2026-10-27T13:18:27.872Z",
+        "timestamp": "2026-10-27T14:38:26.314Z",
         "originalMessageTimestamp": "2026-10-24T15:08:40.000Z"
       },
       "onboardingMeta": {
@@ -19183,7 +19018,7 @@
         "source": "WhatsApp (1181 - Kiotel ADMIN)",
         "messageId": "3EB04C39865FD4BD46879A",
         "summary": "Kiotel Property #1181 Desk: \"Could someone please share an update on the CC terminal intended for the kiosk? Kindly confirm its current sta\"",
-        "timestamp": "2026-10-27T13:18:27.872Z",
+        "timestamp": "2026-10-27T14:38:26.315Z",
         "originalMessageTimestamp": "2026-10-24T19:48:51.000Z"
       },
       "onboardingMeta": {
@@ -19244,7 +19079,7 @@
         "source": "WhatsApp (1219 1220 - Kiotel Admin)",
         "messageId": "3B10CDFA3AFD66A385C5",
         "summary": "Kiotel Property #1219 Desk: \"@165996409155633\"",
-        "timestamp": "2026-10-27T13:18:27.872Z",
+        "timestamp": "2026-10-27T14:38:26.315Z",
         "originalMessageTimestamp": "2026-09-22T19:23:33.000Z"
       },
       "onboardingMeta": {
@@ -19305,7 +19140,7 @@
         "source": "WhatsApp (1227 - Kiotel ADMIN)",
         "messageId": "3A8C0F34061F65C560D0",
         "summary": "Kiotel Property #1227 Desk: \"Nothing delivered yet. I did sign ppwk with them Monday. I’ll follow up if there’s a tracking\"",
-        "timestamp": "2026-10-27T13:18:27.872Z",
+        "timestamp": "2026-10-27T14:38:26.315Z",
         "originalMessageTimestamp": "2026-10-07T18:24:03.000Z"
       },
       "onboardingMeta": {
@@ -19366,7 +19201,7 @@
         "source": "WhatsApp (1244 - Kiotel ADMIN)",
         "messageId": "3EB01C3D516886D50FFFDA",
         "summary": "Kiotel Property #1244 Desk: \"Dear Team,@all We had a call with Matt @132980844572885 yesterday. Currently, the property has two key encoder\"",
-        "timestamp": "2026-10-27T13:18:27.872Z",
+        "timestamp": "2026-10-27T14:38:26.314Z",
         "originalMessageTimestamp": "2026-10-21T23:24:14.000Z"
       },
       "onboardingMeta": {
@@ -19427,7 +19262,7 @@
         "source": "WhatsApp (1246 - Kiotel ADMIN)",
         "messageId": "3AEB4F0837502BDEDE9D",
         "summary": "Kiotel Property #1246 Desk: \"Hello ​@all We are expecting to ship your kiosk out by end of week. To jump start this process I would like to\"",
-        "timestamp": "2026-10-27T13:18:27.872Z",
+        "timestamp": "2026-10-27T14:38:26.314Z",
         "originalMessageTimestamp": "2026-10-05T17:55:54.000Z"
       },
       "onboardingMeta": {
@@ -19488,7 +19323,7 @@
         "source": "WhatsApp (1248 - Kiotel ADMIN)",
         "messageId": "A5A8BFC3B48A8250328FAD64EF3771B3",
         "summary": "Kiotel Property #1248 Desk: \"Sure Thank you\"",
-        "timestamp": "2026-10-27T13:18:27.872Z",
+        "timestamp": "2026-10-27T14:38:26.315Z",
         "originalMessageTimestamp": "2026-10-17T16:32:17.000Z"
       },
       "onboardingMeta": {
@@ -19549,7 +19384,7 @@
         "source": "WhatsApp (1256-Kiotel ADMIN)",
         "messageId": "3EB00C61A3858F41BD3685",
         "summary": "Kiotel Property #1256 Desk: \"Hi @183219630637071 Thank you for signing the contract, and welcome to the Kiotel team! We’re excited to have \"",
-        "timestamp": "2026-10-27T13:18:27.872Z",
+        "timestamp": "2026-10-27T14:38:26.314Z",
         "originalMessageTimestamp": "2026-09-26T18:40:05.000Z"
       },
       "onboardingMeta": {
@@ -19594,7 +19429,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.866Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.308Z"
       },
       "kioskCount": 1,
       "cluster": "US-East",
@@ -19614,7 +19449,7 @@
         "source": "WhatsApp (🖥️ Kiotel - Palm Cove Motel, Clearwater, FL 1183)",
         "messageId": "AC8BAC7FD7C58D66164E41269713E89B",
         "summary": "Palm Cove Motel, Clearwater, FL (#1183) Desk: \"Call transfer tested\"",
-        "timestamp": "2026-10-27T13:18:27.866Z",
+        "timestamp": "2026-10-27T14:38:26.308Z",
         "originalMessageTimestamp": "2026-10-26T10:27:14.000Z"
       },
       "onboardingMeta": {
@@ -19659,7 +19494,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.862Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.305Z"
       },
       "kioskCount": 1,
       "cluster": "US-East",
@@ -19677,7 +19512,7 @@
         "source": "WhatsApp (Kiotel - FRONT DESK Penn Lodge 1171)",
         "messageId": "3EB04350E07C7781EFEE14",
         "summary": "Penn Lodge (#1171) Desk: \"Call Transfer tested\"",
-        "timestamp": "2026-10-27T13:18:27.862Z",
+        "timestamp": "2026-10-27T14:38:26.305Z",
         "originalMessageTimestamp": "2026-10-26T10:22:35.000Z"
       },
       "onboardingMeta": {
@@ -19722,7 +19557,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.859Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.303Z"
       },
       "kioskCount": 1,
       "cluster": "US-Mountain",
@@ -19740,7 +19575,7 @@
         "source": "WhatsApp (Handover’s Quality Inn Cortez CO)",
         "messageId": "3EB0E0B80B2A6956CE3476",
         "summary": "Zuveriya: \"*Quality Inn/Suburban Cortez*: 10/25/2026 *NO HANDOVER* I have verified my work. If anything is found incorrec\"",
-        "timestamp": "2026-10-27T13:18:27.859Z",
+        "timestamp": "2026-10-27T14:38:26.303Z",
         "originalMessageTimestamp": "2026-10-26T12:06:31.000Z"
       },
       "onboardingMeta": {
@@ -19785,7 +19620,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.864Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.306Z"
       },
       "kioskCount": 1,
       "cluster": "US-Central",
@@ -19805,7 +19640,7 @@
         "source": "WhatsApp (Kiotel - Quality Inn Dodgecity 1205)",
         "messageId": "ACF91FF19B16FB62CF253A75F886FD6A",
         "summary": "Devanshu J: \"We are closing the shift. Thanks ~Devanshu J\"",
-        "timestamp": "2026-10-27T13:18:27.864Z",
+        "timestamp": "2026-10-27T14:38:26.306Z",
         "originalMessageTimestamp": "2026-10-26T13:00:12.000Z"
       },
       "onboardingMeta": {
@@ -19850,7 +19685,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.870Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.313Z"
       },
       "kioskCount": 1,
       "cluster": "US-Central",
@@ -19868,7 +19703,7 @@
         "source": "WhatsApp (Handover -- Quality Inn & Suites Kansas City)",
         "messageId": "3EB0758B87CE22BECBD61D",
         "summary": "Quality Inn Kansas City (#1207) Desk: \"📋 *HANDOVER – 10/25/2026* *🕒 Shift: Audit* *👤 Agent: Harsha* # 📢 *INFO:* Guest Name: JEREMIAH FULLER Confi\"",
-        "timestamp": "2026-10-27T13:18:27.870Z",
+        "timestamp": "2026-10-27T14:38:26.313Z",
         "originalMessageTimestamp": "2026-10-26T09:36:46.000Z"
       },
       "onboardingMeta": {
@@ -19913,7 +19748,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.860Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.304Z"
       },
       "kioskCount": 1,
       "cluster": "US-Mountain",
@@ -19931,7 +19766,7 @@
         "source": "WhatsApp (Handover’s Quality Inn Mt. Vernon)",
         "messageId": "3EB0C0E2AE230B23415BD8",
         "summary": "Quality Inn Mt. Vernon (#1088) Desk: \"*📋 HANDOVER – 10/25/2026* *🕒 Shift: Audit* *👤 Agent: Harsha* *# 📢 INFO* : 1. We have a $10 discrepancy in \"",
-        "timestamp": "2026-10-27T13:18:27.860Z",
+        "timestamp": "2026-10-27T14:38:26.304Z",
         "originalMessageTimestamp": "2026-10-26T09:36:44.000Z"
       },
       "onboardingMeta": {
@@ -19976,7 +19811,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.866Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.309Z"
       },
       "kioskCount": 1,
       "cluster": "US-Mountain",
@@ -19994,7 +19829,7 @@
         "source": "WhatsApp (Kiotel-Quality Inn Peaks Pikes 1200)",
         "messageId": "AC683D7906DF322F5FB902C04872489D",
         "summary": "Quality Inn Peaks Pikes (#1200) Desk: \"Call Transfer Tested\"",
-        "timestamp": "2026-10-27T13:18:27.866Z",
+        "timestamp": "2026-10-27T14:38:26.309Z",
         "originalMessageTimestamp": "2026-10-18T02:33:28.000Z"
       },
       "onboardingMeta": {
@@ -20039,7 +19874,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.865Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.306Z"
       },
       "kioskCount": 1,
       "cluster": "US-East",
@@ -20057,7 +19892,7 @@
         "source": "WhatsApp (Handover's - Quality Inn Spartanburg SC)",
         "messageId": "3EB06A82A413689532ACF9",
         "summary": "Quality Inn Spartanburg SC (#1141) Desk: \"📅 Date: 10/25/2026 ⏰ Shift: AUDIT SHIFT 👤 Agent: Roshni ➡️ INFORMATION *MAJOR UPDATE* Krutharth Sir is stayi\"",
-        "timestamp": "2026-10-27T13:18:27.865Z",
+        "timestamp": "2026-10-27T14:38:26.306Z",
         "originalMessageTimestamp": "2026-10-26T13:03:47.000Z"
       },
       "onboardingMeta": {
@@ -20102,7 +19937,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.871Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.314Z"
       },
       "kioskCount": 1,
       "cluster": "US-East",
@@ -20120,7 +19955,7 @@
         "source": "WhatsApp (Ramada SP & Baymont SP – No Delay Response Group)",
         "messageId": "3EB02D87F4084D3BB3F360",
         "summary": "Ramada SP & Baymont SP Desk: \"Daily Reconciliation - Baymont - 10/25/2026\"",
-        "timestamp": "2026-10-27T13:18:27.871Z",
+        "timestamp": "2026-10-27T14:38:26.314Z",
         "originalMessageTimestamp": "2026-10-26T09:31:12.000Z"
       },
       "onboardingMeta": {
@@ -20165,7 +20000,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.871Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.313Z"
       },
       "kioskCount": 1,
       "cluster": "US-Central",
@@ -20183,7 +20018,7 @@
         "source": "WhatsApp (Handovers - Red Lion Olathe)",
         "messageId": "3EB0452BE07F403B6068A5",
         "summary": "Maharth: \"*HANDOVER* | Sonali. (Dedicated/AUDIT) *Date: 10/25/2026* ━━━━━━━━━━━━━━━━━━━━ *INCIDENTS* 🔴 ▸ None. ━━━━━━━━\"",
-        "timestamp": "2026-10-27T13:18:27.871Z",
+        "timestamp": "2026-10-27T14:38:26.313Z",
         "originalMessageTimestamp": "2026-10-26T09:48:42.000Z"
       },
       "onboardingMeta": {
@@ -20228,7 +20063,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.870Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.313Z"
       },
       "kioskCount": 1,
       "cluster": "US-East",
@@ -20246,7 +20081,7 @@
         "source": "WhatsApp (Kiotel - Red Roof Inn Stroudsburg 1164)",
         "messageId": "3EB0B6F8A4D9964E482B21",
         "summary": "Red Roof Inn Stroudsburg (#1164) Desk: \"Call transfer tested\"",
-        "timestamp": "2026-10-27T13:18:27.870Z",
+        "timestamp": "2026-10-27T14:38:26.313Z",
         "originalMessageTimestamp": "2026-10-26T12:52:46.000Z"
       },
       "onboardingMeta": {
@@ -20291,7 +20126,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.862Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.305Z"
       },
       "kioskCount": 1,
       "cluster": "US-Central",
@@ -20309,7 +20144,7 @@
         "source": "WhatsApp (HANDOVER- Redroof Cameron)",
         "messageId": "ACC794E0844B7960E92991E0A3A94E6C",
         "summary": "vansh: \"*Audit Shift | vansh - 10/25/2026* *INFO* * None =========================================== _*I have verified\"",
-        "timestamp": "2026-10-27T13:18:27.862Z",
+        "timestamp": "2026-10-27T14:38:26.305Z",
         "originalMessageTimestamp": "2026-10-26T11:06:48.000Z"
       },
       "onboardingMeta": {
@@ -20354,7 +20189,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.862Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.305Z"
       },
       "kioskCount": 1,
       "cluster": "US-Central",
@@ -20372,7 +20207,7 @@
         "source": "WhatsApp (Handover’s Rodeway Inn Effingham)",
         "messageId": "3EB067F14CC09CB94FA0A1",
         "summary": "Rodeway Inn Effingham (#1118) Desk: \"DATE: 10/25/2026 SHIFT: Audit SHIFT AGENT: Khushi raj INFO > Please add rooms 202 and 101 to the housekeeping \"",
-        "timestamp": "2026-10-27T13:18:27.862Z",
+        "timestamp": "2026-10-27T14:38:26.305Z",
         "originalMessageTimestamp": "2026-10-26T09:36:11.000Z"
       },
       "onboardingMeta": {
@@ -20417,7 +20252,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.863Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.305Z"
       },
       "kioskCount": 1,
       "cluster": "US-East",
@@ -20435,7 +20270,7 @@
         "source": "WhatsApp (Kiotel - Rodeway Suburban Brazil Indiana 1208)",
         "messageId": "3EB0B79E43D5D40B5DB4B5",
         "summary": "Rodeway Suburban Brazil Indiana (#1208) Desk: \"Cash recycler balance $2135 Cashbox balance $1934\"",
-        "timestamp": "2026-10-27T13:18:27.863Z",
+        "timestamp": "2026-10-27T14:38:26.305Z",
         "originalMessageTimestamp": "2026-10-18T02:21:34.000Z"
       },
       "onboardingMeta": {
@@ -20480,7 +20315,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.865Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.307Z"
       },
       "kioskCount": 1,
       "cluster": "US-Mountain",
@@ -20498,7 +20333,7 @@
         "source": "WhatsApp (Kiotel -Sleep Inn Denver 1178)",
         "messageId": "3EB0F1C2271E41695EC88E",
         "summary": "Aryan.: \"✅ Call transfer has been tested successfully.\"",
-        "timestamp": "2026-10-27T13:18:27.865Z",
+        "timestamp": "2026-10-27T14:38:26.307Z",
         "originalMessageTimestamp": "2026-10-26T13:34:49.000Z"
       },
       "onboardingMeta": {
@@ -20543,7 +20378,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.870Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.313Z"
       },
       "kioskCount": 1,
       "cluster": "US-Pacific",
@@ -20561,7 +20396,7 @@
         "source": "WhatsApp (Kiotel - Sonesta ES Suites Fresno 1215)",
         "messageId": "3EB0B669C0BCB02B0A84CB",
         "summary": "Sonesta ES Suites Fresno (#1215) Desk: \"Shift Log :- 10/25/2026 Sonesta\"",
-        "timestamp": "2026-10-27T13:18:27.870Z",
+        "timestamp": "2026-10-27T14:38:26.313Z",
         "originalMessageTimestamp": "2026-10-26T13:27:57.000Z"
       },
       "onboardingMeta": {
@@ -20606,7 +20441,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.868Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.311Z"
       },
       "kioskCount": 1,
       "cluster": "US-Mountain",
@@ -20624,7 +20459,7 @@
         "source": "WhatsApp (Handover’s Quality inn South Fork CO)",
         "messageId": "3EB03471F6FECEE92ECE32",
         "summary": "Zuveriya: \"*10/25/2026* *AUDIT - ZUVERIYA* *NO HANDOVER* *I’ve thoroughly verified my work. If there are any errors, I ta\"",
-        "timestamp": "2026-10-27T13:18:27.868Z",
+        "timestamp": "2026-10-27T14:38:26.311Z",
         "originalMessageTimestamp": "2026-10-26T13:12:24.000Z"
       },
       "onboardingMeta": {
@@ -20669,7 +20504,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.861Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.304Z"
       },
       "kioskCount": 1,
       "cluster": "US-Central",
@@ -20687,7 +20522,7 @@
         "source": "WhatsApp (Kiotel - Streamside On Fall River 1103)",
         "messageId": "3EB0E7F66C0EF2ED277D32",
         "summary": "Streamside On Fall River (#1103) Desk: \"Good night, sir. I am closing the shift now.\"",
-        "timestamp": "2026-10-27T13:18:27.861Z",
+        "timestamp": "2026-10-27T14:38:26.304Z",
         "originalMessageTimestamp": "2026-10-26T01:00:07.000Z"
       },
       "onboardingMeta": {
@@ -20732,7 +20567,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.864Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.306Z"
       },
       "kioskCount": 1,
       "cluster": "US-Arizona",
@@ -20747,11 +20582,11 @@
       "humanVerified": true,
       "customConfiguredByUser": false,
       "lastEvidence": {
-        "source": "WhatsApp (Handover's - Studio 51 Phoenix AZ)",
-        "messageId": "3EB0DDAB793A206D55E702",
-        "summary": "Yash M.: \"STUDIO 51 EXTENDED STAY ━━━━━━━━━━━━━━━━━━━━━━ *HANDOVER | AM Shift* *Date: 10/25/2026* *Agent: Benjamin *INFO\"",
-        "timestamp": "2026-10-27T13:18:27.864Z",
-        "originalMessageTimestamp": "2026-10-25T22:01:40.000Z"
+        "source": "WhatsApp (Kiotel - Studio 51 Phoenix AZ - 1147)",
+        "messageId": "3EB0CCD32C9491CD98886B",
+        "summary": "Yash M.: \"Competitor Rates\"",
+        "timestamp": "2026-10-27T14:38:26.306Z",
+        "originalMessageTimestamp": "2026-10-27T14:38:48.000Z"
       },
       "onboardingMeta": {
         "stage": "Live & Operating",
@@ -20760,8 +20595,8 @@
         "blockerReason": null,
         "actionRequired": "None — Property Launched",
         "detectedAgent": "Yash M.",
-        "lastMessageAt": "2026-10-25T22:01:40.000Z",
-        "lastMessagePreview": "STUDIO 51 EXTENDED STAY ━━━━━━━━━━━━━━━━━━━━━━ *HANDOVER | AM Shift* *Date: 10/25/2026* *Agent: Benjamin *INFORMATION:* * None ━━━━━━━━━━━━━"
+        "lastMessageAt": "2026-10-27T14:38:48.000Z",
+        "lastMessagePreview": "Competitor Rates"
       },
       "manualStatusOverride": null
     },
@@ -20795,7 +20630,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.868Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.311Z"
       },
       "kioskCount": 1,
       "cluster": "US-Central",
@@ -20813,7 +20648,7 @@
         "source": "WhatsApp (Kiotel - Studio 6 Limon 1199)",
         "messageId": "AC0BAA1E1F1C666A6E31902257C59628",
         "summary": "Studio 6 Limon (#1199) Desk: \"Call Transfer Tested\"",
-        "timestamp": "2026-10-27T13:18:27.868Z",
+        "timestamp": "2026-10-27T14:38:26.311Z",
         "originalMessageTimestamp": "2026-10-18T03:04:28.000Z"
       },
       "onboardingMeta": {
@@ -20858,7 +20693,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.868Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.312Z"
       },
       "kioskCount": 1,
       "cluster": "US-East",
@@ -20878,7 +20713,7 @@
         "source": "WhatsApp (Kiotel - Sunshine Inn, Holiday, FL 1179)",
         "messageId": "AC1FF24D780BA903FB081F22DB23741E",
         "summary": "Sunshine Inn, Holiday, FL (#1179) Desk: \"Call transfer tested\"",
-        "timestamp": "2026-10-27T13:18:27.868Z",
+        "timestamp": "2026-10-27T14:38:26.312Z",
         "originalMessageTimestamp": "2026-10-26T10:27:00.000Z"
       },
       "onboardingMeta": {
@@ -20923,7 +20758,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.857Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.302Z"
       },
       "kioskCount": 1,
       "cluster": "US-Mountain",
@@ -20941,7 +20776,7 @@
         "source": "WhatsApp (Kiotel - Super 8 Alamosa 1197)",
         "messageId": "3EB0E84E22A783B1605A03",
         "summary": "Netra: \"Good Morning Team, We are closing the shift. Have a good day Krishna D. Thank You.\"",
-        "timestamp": "2026-10-27T13:18:27.857Z",
+        "timestamp": "2026-10-27T14:38:26.302Z",
         "originalMessageTimestamp": "2026-10-26T12:05:17.000Z"
       },
       "onboardingMeta": {
@@ -20986,7 +20821,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.870Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.313Z"
       },
       "kioskCount": 1,
       "cluster": "US-Central",
@@ -21006,7 +20841,7 @@
         "source": "WhatsApp (Handover - Super 8 by Wyndham Lenexa Overland Park/Mall Area - Kansas (KS) -1230)",
         "messageId": "3EB0F6C4CA155121FFF428",
         "summary": "Kishan: \"*HANDOVER - Kishan* *Audit Shift: 10/25/2026* *INFORMATION* 1. *Collected $75 from guest card from room no.304\"",
-        "timestamp": "2026-10-27T13:18:27.870Z",
+        "timestamp": "2026-10-27T14:38:26.313Z",
         "originalMessageTimestamp": "2026-10-26T09:13:03.000Z"
       },
       "onboardingMeta": {
@@ -21051,7 +20886,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.858Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.303Z"
       },
       "kioskCount": 1,
       "cluster": "US-Central",
@@ -21069,7 +20904,7 @@
         "source": "WhatsApp (Kiotel - Super 8 Independence MO - 1160)",
         "messageId": "3EB022BBB692C4536644A9",
         "summary": "Super 8 Independence MO (#1160) Desk: \"call transfer tested\"",
-        "timestamp": "2026-10-27T13:18:27.858Z",
+        "timestamp": "2026-10-27T14:38:26.303Z",
         "originalMessageTimestamp": "2026-10-26T10:16:04.000Z"
       },
       "onboardingMeta": {
@@ -21114,7 +20949,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.862Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.305Z"
       },
       "kioskCount": 1,
       "cluster": "US-Central",
@@ -21132,7 +20967,7 @@
         "source": "WhatsApp (Kiotel - Super 8 Kansas City 1194)",
         "messageId": "3EB0F6AC62E0B502A13311",
         "summary": "Super 8 Kansas City (#1194) Desk: \"Call Transfer Tested. -Jesal.J\"",
-        "timestamp": "2026-10-27T13:18:27.862Z",
+        "timestamp": "2026-10-27T14:38:26.305Z",
         "originalMessageTimestamp": "2026-10-26T13:35:26.000Z"
       },
       "onboardingMeta": {
@@ -21177,7 +21012,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.862Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.304Z"
       },
       "kioskCount": 1,
       "cluster": "US-Arizona",
@@ -21195,7 +21030,7 @@
         "source": "WhatsApp (Kiotel - Super 8 Lake Havasu 1226)",
         "messageId": "3EB0E34387F24610950EA8",
         "summary": "Ayush: \"Cash Recycler Balance $1429 Cash Box Balance $326\"",
-        "timestamp": "2026-10-27T13:18:27.862Z",
+        "timestamp": "2026-10-27T14:38:26.304Z",
         "originalMessageTimestamp": "2026-10-26T05:24:13.000Z"
       },
       "onboardingMeta": {
@@ -21240,7 +21075,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.821Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.301Z"
       },
       "kioskCount": 1,
       "cluster": "US-East",
@@ -21260,7 +21095,7 @@
         "source": "WhatsApp (Kiotel - Super 8 Meadows VA 1228)",
         "messageId": "3EB06C8F82A7E6C503F4CC",
         "summary": "operations management (#1228) Desk: \"Call Transfer Tested.\"",
-        "timestamp": "2026-10-27T13:18:27.821Z",
+        "timestamp": "2026-10-27T14:38:26.301Z",
         "originalMessageTimestamp": "2026-10-26T09:54:57.000Z"
       },
       "onboardingMeta": {
@@ -21305,7 +21140,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.871Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.314Z"
       },
       "kioskCount": 1,
       "cluster": "US-Central",
@@ -21327,7 +21162,7 @@
         "source": "WhatsApp (S8 Mound City – No Delay Response Group)",
         "messageId": "3EB0D81B7B2BE69935BC65",
         "summary": "Super 8 Moundcity (#1144) Desk: \"Ok\"",
-        "timestamp": "2026-10-27T13:18:27.871Z",
+        "timestamp": "2026-10-27T14:38:26.314Z",
         "originalMessageTimestamp": "2026-10-26T13:33:02.000Z"
       },
       "onboardingMeta": {
@@ -21372,7 +21207,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.867Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.309Z"
       },
       "kioskCount": 1,
       "cluster": "US-Central",
@@ -21390,7 +21225,7 @@
         "source": "WhatsApp (Kiotel - Super 8 Sparta 1242)",
         "messageId": "3EB055A0A81ED595641DDA",
         "summary": "Super 8 Sparta (#1242) Desk: \"Open on Booking $76\"",
-        "timestamp": "2026-10-27T13:18:27.867Z",
+        "timestamp": "2026-10-27T14:38:26.309Z",
         "originalMessageTimestamp": "2026-10-26T13:19:57.000Z"
       },
       "onboardingMeta": {
@@ -21435,7 +21270,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.863Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.305Z"
       },
       "kioskCount": 1,
       "cluster": "US-Arizona",
@@ -21453,7 +21288,7 @@
         "source": "WhatsApp (Kiotel - Super 8 Willcox 1213)",
         "messageId": "AC4769AD1646A2FC334DD12A9E38E777",
         "summary": "Super 8 Willcox (#1213) Desk: \"Call Transfer Tested.\"",
-        "timestamp": "2026-10-27T13:18:27.863Z",
+        "timestamp": "2026-10-27T14:38:26.305Z",
         "originalMessageTimestamp": "2026-10-26T10:26:06.000Z"
       },
       "onboardingMeta": {
@@ -21498,7 +21333,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.866Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.309Z"
       },
       "kioskCount": 1,
       "cluster": "US-Central",
@@ -21516,7 +21351,7 @@
         "source": "WhatsApp (Kiotel - Super 8, Higginsville 1159)",
         "messageId": "3EB0CF27D1BA0C46E310E1",
         "summary": "Super 8, Higginsville (#1159) Desk: \"Good Morning, Team. This is *Arshi M*. I'm logging out of my shift.\"",
-        "timestamp": "2026-10-27T13:18:27.866Z",
+        "timestamp": "2026-10-27T14:38:26.309Z",
         "originalMessageTimestamp": "2026-10-26T12:01:48.000Z"
       },
       "onboardingMeta": {
@@ -21561,7 +21396,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.857Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.302Z"
       },
       "kioskCount": 1,
       "cluster": "US-Central",
@@ -21581,7 +21416,7 @@
         "source": "WhatsApp (Kiotel - Super 8, Salem, IL 1143)",
         "messageId": "3EB094E0ABFEAFF1B42E9B",
         "summary": "Super 8, Salem, IL (#1143) Desk: \"Cash Recycler: $715 Cash Box: $70\"",
-        "timestamp": "2026-10-27T13:18:27.857Z",
+        "timestamp": "2026-10-27T14:38:26.302Z",
         "originalMessageTimestamp": "2026-10-26T10:09:07.000Z"
       },
       "onboardingMeta": {
@@ -21626,7 +21461,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.861Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.304Z"
       },
       "kioskCount": 1,
       "cluster": "US-East",
@@ -21644,7 +21479,7 @@
         "source": "WhatsApp (Handover-Super 8 Sturbridge MA)",
         "messageId": "3EB0E054EAE6554DBE96C6",
         "summary": "Gunja: \"*HANDOVER - 10/25/2026* *Shift - Audit* *AGENT – Gunja* ━━━━━━━━━━━━━━━ *Important Information* * As per Mani \"",
-        "timestamp": "2026-10-27T13:18:27.861Z",
+        "timestamp": "2026-10-27T14:38:26.304Z",
         "originalMessageTimestamp": "2026-10-26T09:21:09.000Z"
       },
       "onboardingMeta": {
@@ -21689,7 +21524,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.867Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.310Z"
       },
       "kioskCount": 1,
       "cluster": "US-Central",
@@ -21707,7 +21542,7 @@
         "source": "WhatsApp (Kiotel-Sure stay Kearney 1167)",
         "messageId": "3A5DB41EF2CEB4649D18",
         "summary": "Sure stay Kearney (#1167) Desk: \"And just want to update you that guest has been marked no show on the booking.com.\"",
-        "timestamp": "2026-10-27T13:18:27.867Z",
+        "timestamp": "2026-10-27T14:38:26.310Z",
         "originalMessageTimestamp": "2026-10-26T10:09:06.000Z"
       },
       "onboardingMeta": {
@@ -21752,7 +21587,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.860Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.304Z"
       },
       "kioskCount": 1,
       "cluster": "US-Arizona",
@@ -21772,7 +21607,7 @@
         "source": "WhatsApp (Kiotel - SureStay Williams 1130)",
         "messageId": "3EB0CFEB7D0ADB8A3A466E",
         "summary": "SureStay Williams (#1130) Desk: \"Open on Expedia: $61\"",
-        "timestamp": "2026-10-27T13:18:27.860Z",
+        "timestamp": "2026-10-27T14:38:26.304Z",
         "originalMessageTimestamp": "2026-10-26T13:25:27.000Z"
       },
       "onboardingMeta": {
@@ -21817,7 +21652,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.867Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.311Z"
       },
       "kioskCount": 1,
       "cluster": "US-Central",
@@ -21837,7 +21672,7 @@
         "source": "WhatsApp (Kiotel-The Grand Texarkana, 1229)",
         "messageId": "ACB5B244C2560EC943824DBF6C3E72D3",
         "summary": "The Grand Texarkana (#1229) Desk: \"Call transfer tested\"",
-        "timestamp": "2026-10-27T13:18:27.867Z",
+        "timestamp": "2026-10-27T14:38:26.311Z",
         "originalMessageTimestamp": "2026-10-26T10:29:45.000Z"
       },
       "onboardingMeta": {
@@ -21882,7 +21717,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.871Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.314Z"
       },
       "kioskCount": 1,
       "cluster": "US-Central",
@@ -21900,7 +21735,7 @@
         "source": "WhatsApp (Kiotel - U Inn Carbondale 1086)",
         "messageId": "A52899A64BD6898A4237B28CA5F63F3B",
         "summary": "U Inn Carbondale (#1086) Desk: \"Call transfer tested\"",
-        "timestamp": "2026-10-27T13:18:27.871Z",
+        "timestamp": "2026-10-27T14:38:26.314Z",
         "originalMessageTimestamp": "2026-10-26T12:00:25.000Z"
       },
       "onboardingMeta": {
@@ -21945,7 +21780,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.868Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.311Z"
       },
       "kioskCount": 1,
       "cluster": "US-Central",
@@ -21965,7 +21800,7 @@
         "source": "WhatsApp (Kiotel- Westbridge Clinton 1237)",
         "messageId": "3EB0FA71FA6FDF46D48E49",
         "summary": "Westbridge Clinton (#1237) Desk: \"Good Morning team, We are ending the shift now. Thank you!\"",
-        "timestamp": "2026-10-27T13:18:27.868Z",
+        "timestamp": "2026-10-27T14:38:26.311Z",
         "originalMessageTimestamp": "2026-10-26T11:08:24.000Z"
       },
       "onboardingMeta": {
@@ -22010,7 +21845,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.860Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.304Z"
       },
       "kioskCount": 1,
       "cluster": "US-Central",
@@ -22028,7 +21863,7 @@
         "source": "WhatsApp (Kiotel - WoodSpring Suites - 1176 Anderson)",
         "messageId": "3EB0F985BA240705B0CFD4",
         "summary": "WoodSpring Suites Anderson (#1176) Desk: \"Good morning team, We are now closing our shift. Thank you\"",
-        "timestamp": "2026-10-27T13:18:27.860Z",
+        "timestamp": "2026-10-27T14:38:26.304Z",
         "originalMessageTimestamp": "2026-10-26T13:02:49.000Z"
       },
       "onboardingMeta": {
@@ -22073,7 +21908,7 @@
         "assignedManager": "Sarthak",
         "coverageConfirmed": true,
         "confirmed": true,
-        "lastCoverageVerifiedAt": "2026-10-27T13:18:27.861Z"
+        "lastCoverageVerifiedAt": "2026-10-27T14:38:26.304Z"
       },
       "kioskCount": 1,
       "cluster": "US-East",
@@ -22093,7 +21928,7 @@
         "source": "WhatsApp (Kiotel - Woodspring Suites, Columbia Irmo 1177)",
         "messageId": "3EB038BA7C8F531B6BD9ED",
         "summary": "Roshni: \"Good morning, team, We are now closing our shift. Thank you\"",
-        "timestamp": "2026-10-27T13:18:27.861Z",
+        "timestamp": "2026-10-27T14:38:26.304Z",
         "originalMessageTimestamp": "2026-10-26T13:02:04.000Z"
       },
       "onboardingMeta": {
@@ -22229,7 +22064,8 @@
           "action": "Incident Created (TECH-1019)",
           "text": "Kiosk is able to make keys."
         }
-      ]
+      ],
+      "isOverdue": true
     },
     {
       "id": "TECH-1017",
@@ -22370,7 +22206,8 @@
           "action": "Message logged (AWAITING_RESPONSE)",
           "text": "@168256048521387 @163372771336283 \nIf someone is coming to extend their stay, do not collect in same folio.\nMake the new reservation in respective date and collect the payment in that folio."
         }
-      ]
+      ],
+      "isOverdue": true
     },
     {
       "id": "TECH-1013",
@@ -22846,7 +22683,7 @@
       "propertyIds": [
         "KIOTEL-WESTMINSTER"
       ],
-      "propertyName": "Motel 6 Westminster S, CA",
+      "propertyName": "Jio Bipin",
       "groupId": "120363424307152538@g.us",
       "sourceGroupId": "120363424307152538@g.us",
       "groupName": "Handover’s Motel 6 Westminster S, CA",
@@ -22876,7 +22713,7 @@
       "reporterName": "Motel 6 Westminster S, CA Contact",
       "raisedAt": "2026-10-26T09:26:38.000Z",
       "createdAt": "2026-10-26T09:26:38.000Z",
-      "propertyLocalTime": "2026-10-26 02:26 (America/Los_Angeles)",
+      "propertyLocalTime": "2026-10-26 04:26 (America/Chicago)",
       "reportingShift": "Night Shift (23:00 - 07:00)",
       "shiftVerified": true,
       "importance": {
@@ -37579,6 +37416,245 @@
   ],
   "messageLogs": [
     {
+      "id": "3EB0CCD32C9491CD98886B",
+      "sourceMessageId": "3EB0CCD32C9491CD98886B",
+      "groupId": "120363423316257040@g.us",
+      "groupName": "Kiotel - Studio 51 Phoenix AZ - 1147",
+      "groupType": "PROPERTY",
+      "propertyId": "KIOTEL-1147",
+      "propertyIds": [
+        "KIOTEL-1147"
+      ],
+      "propertyName": "Studio 51 Phoenix AZ (#1147)",
+      "propertyLocalTime": "2026-10-27 07:38 (America/Phoenix)",
+      "reportingShift": "Morning Shift (07:00 - 15:00)",
+      "senderPhone": "+173710623420620",
+      "senderName": "Kiosk",
+      "senderRole": "PROPERTY_OR_OWNER",
+      "isTeam": false,
+      "text": "Competitor Rates",
+      "timestamp": "2026-10-27T14:38:48.000Z",
+      "analysis": {
+        "category": "OTHER",
+        "isTechnical": false,
+        "equipmentSystem": "General Service / Non-Hardware",
+        "affectsCheckIn": false,
+        "importance": {
+          "level": "MEDIUM",
+          "reason": "External property/client communication or pending operational task."
+        },
+        "seriousness": {
+          "severity": "LOW",
+          "reason": "Routine operational update or general communication.",
+          "affectedDomain": "Routine Operations"
+        },
+        "responseRequirement": {
+          "required": false,
+          "actionType": "NONE",
+          "expectedResponder": "UNASSIGNED",
+          "deadline": "UNKNOWN"
+        },
+        "replyNature": {
+          "isSuperficialAck": false,
+          "isWaitingExternal": false,
+          "isActionInProgress": false,
+          "isResolutionClaimByStaff": false,
+          "isResolutionConfirmationByClient": false,
+          "isInformationalUpdateOnly": false
+        }
+      }
+    },
+    {
+      "id": "A5DCACDFF1E8A1D53CEA58E94C7011F6",
+      "sourceMessageId": "A5DCACDFF1E8A1D53CEA58E94C7011F6",
+      "groupId": "120363431241492990@g.us",
+      "groupName": "Fairfield review",
+      "groupType": "INTERNAL_OPS",
+      "propertyId": null,
+      "propertyIds": [],
+      "propertyName": "Unmapped Group",
+      "propertyLocalTime": "Unknown (Timezone Unverified)",
+      "reportingShift": "Unknown",
+      "senderPhone": "+148585064706051",
+      "senderName": "Vikash Operation-Kiotel",
+      "senderRole": "KIOTEL_STAFF",
+      "isTeam": true,
+      "text": "Within 30min it will be in the list",
+      "timestamp": "2026-10-27T14:37:58.000Z",
+      "analysis": {
+        "category": "OTHER",
+        "isTechnical": false,
+        "equipmentSystem": "General Service / Non-Hardware",
+        "affectsCheckIn": false,
+        "importance": {
+          "level": "LOW",
+          "reason": "Routine chat message not requiring Operations Manager intervention."
+        },
+        "seriousness": {
+          "severity": "LOW",
+          "reason": "Routine operational update or general communication.",
+          "affectedDomain": "Routine Operations"
+        },
+        "responseRequirement": {
+          "required": false,
+          "actionType": "NONE",
+          "expectedResponder": "UNASSIGNED",
+          "deadline": "2026-10-27T14:42:32.980Z"
+        },
+        "replyNature": {
+          "isSuperficialAck": false,
+          "isWaitingExternal": false,
+          "isActionInProgress": false,
+          "isResolutionClaimByStaff": false,
+          "isResolutionConfirmationByClient": false,
+          "isInformationalUpdateOnly": false
+        }
+      }
+    },
+    {
+      "id": "3EB079B249B7D7BE15EAA1",
+      "sourceMessageId": "3EB079B249B7D7BE15EAA1",
+      "groupId": "120363418465520194@g.us",
+      "groupName": "All",
+      "groupType": "INTERNAL_OPS",
+      "propertyId": "KIOTEL-1249",
+      "propertyIds": [
+        "KIOTEL-1249"
+      ],
+      "propertyName": "Days Inn - Troy,IL (#1249)",
+      "propertyLocalTime": "2026-10-27 09:37 (America/Chicago)",
+      "reportingShift": "Morning Shift (07:00 - 15:00)",
+      "senderPhone": "+202740357709850",
+      "senderName": "Kiosk",
+      "senderRole": "PROPERTY_OR_OWNER",
+      "isTeam": false,
+      "text": "Done for both Mound City & Days Inn Troy",
+      "timestamp": "2026-10-27T14:37:25.000Z",
+      "analysis": {
+        "category": "OTHER",
+        "isTechnical": false,
+        "equipmentSystem": "General Service / Non-Hardware",
+        "affectsCheckIn": false,
+        "importance": {
+          "level": "MEDIUM",
+          "reason": "External property/client communication or pending operational task."
+        },
+        "seriousness": {
+          "severity": "LOW",
+          "reason": "Routine operational update or general communication.",
+          "affectedDomain": "Routine Operations"
+        },
+        "responseRequirement": {
+          "required": false,
+          "actionType": "NONE",
+          "expectedResponder": "UNASSIGNED",
+          "deadline": "UNKNOWN"
+        },
+        "replyNature": {
+          "isSuperficialAck": false,
+          "isWaitingExternal": false,
+          "isActionInProgress": false,
+          "isResolutionClaimByStaff": false,
+          "isResolutionConfirmationByClient": false,
+          "isInformationalUpdateOnly": false
+        }
+      }
+    },
+    {
+      "id": "AC51E1038D3C2DF117DFC9E187246FEC",
+      "sourceMessageId": "AC51E1038D3C2DF117DFC9E187246FEC",
+      "groupId": "120363341257800008@g.us",
+      "groupName": "Rodeway Housekeeping",
+      "groupType": "INTERNAL_OPS",
+      "propertyId": null,
+      "propertyIds": [],
+      "propertyName": "Unmapped Group",
+      "propertyLocalTime": "Unknown (Timezone Unverified)",
+      "reportingShift": "Unknown",
+      "senderPhone": "+201718138724599",
+      "senderName": "Tiffany Gillespie",
+      "senderRole": "PROPERTY_OR_OWNER",
+      "isTeam": false,
+      "text": "108 is gone.",
+      "timestamp": "2026-10-27T14:37:25.000Z",
+      "analysis": {
+        "category": "OTHER",
+        "isTechnical": false,
+        "equipmentSystem": "General Service / Non-Hardware",
+        "affectsCheckIn": false,
+        "importance": {
+          "level": "MEDIUM",
+          "reason": "External property/client communication or pending operational task."
+        },
+        "seriousness": {
+          "severity": "LOW",
+          "reason": "Routine operational update or general communication.",
+          "affectedDomain": "Routine Operations"
+        },
+        "responseRequirement": {
+          "required": false,
+          "actionType": "NONE",
+          "expectedResponder": "UNASSIGNED",
+          "deadline": "UNKNOWN"
+        },
+        "replyNature": {
+          "isSuperficialAck": false,
+          "isWaitingExternal": false,
+          "isActionInProgress": false,
+          "isResolutionClaimByStaff": false,
+          "isResolutionConfirmationByClient": false,
+          "isInformationalUpdateOnly": false
+        }
+      }
+    },
+    {
+      "id": "3B67984BAD0483811FC3",
+      "sourceMessageId": "3B67984BAD0483811FC3",
+      "groupId": "120363431241492990@g.us",
+      "groupName": "Fairfield review",
+      "groupType": "INTERNAL_OPS",
+      "propertyId": null,
+      "propertyIds": [],
+      "propertyName": "Unmapped Group",
+      "propertyLocalTime": "Unknown (Timezone Unverified)",
+      "reportingShift": "Unknown",
+      "senderPhone": "+227942890229959",
+      "senderName": "Nene",
+      "senderRole": "PROPERTY_OR_OWNER",
+      "isTeam": false,
+      "text": "need these now",
+      "timestamp": "2026-10-27T14:37:25.000Z",
+      "analysis": {
+        "category": "OTHER",
+        "isTechnical": false,
+        "equipmentSystem": "General Service / Non-Hardware",
+        "affectsCheckIn": false,
+        "importance": {
+          "level": "MEDIUM",
+          "reason": "External property/client communication or pending operational task."
+        },
+        "seriousness": {
+          "severity": "LOW",
+          "reason": "Routine operational update or general communication.",
+          "affectedDomain": "Routine Operations"
+        },
+        "responseRequirement": {
+          "required": false,
+          "actionType": "NONE",
+          "expectedResponder": "UNASSIGNED",
+          "deadline": "UNKNOWN"
+        },
+        "replyNature": {
+          "isSuperficialAck": false,
+          "isWaitingExternal": false,
+          "isActionInProgress": false,
+          "isResolutionClaimByStaff": false,
+          "isResolutionConfirmationByClient": false,
+          "isInformationalUpdateOnly": false
+        }
+      }
+    },
+    {
       "id": "3EB039EBE85F70C7F8B5FD",
       "sourceMessageId": "3EB039EBE85F70C7F8B5FD",
       "groupId": "120363431086585676@g.us",
@@ -47633,10 +47709,11 @@
       "groupType": "HANDOVER",
       "propertyId": "KIOTEL-WESTMINSTER",
       "propertyIds": [
+        "KIOTEL-WESTMINSTER",
         "KIOTEL-WESTMINSTER"
       ],
-      "propertyName": "Motel 6 Westminster S, CA",
-      "propertyLocalTime": "2026-10-26 02:26 (America/Los_Angeles)",
+      "propertyName": "Jio Bipin",
+      "propertyLocalTime": "2026-10-26 04:26 (America/Chicago)",
       "reportingShift": "Night Shift (23:00 - 07:00)",
       "senderPhone": "+120363424307152538",
       "senderName": "Motel 6 Westminster S, CA Desk",
@@ -98892,10 +98969,11 @@
       "groupType": "HANDOVER",
       "propertyId": "KIOTEL-WESTMINSTER",
       "propertyIds": [
+        "KIOTEL-WESTMINSTER",
         "KIOTEL-WESTMINSTER"
       ],
-      "propertyName": "Motel 6 Westminster S, CA",
-      "propertyLocalTime": "2026-10-13 02:41 (America/Los_Angeles)",
+      "propertyName": "Jio Bipin",
+      "propertyLocalTime": "2026-10-13 04:41 (America/Chicago)",
       "reportingShift": "Night Shift (23:00 - 07:00)",
       "senderPhone": "+120363424307152538",
       "senderName": "Motel 6 Westminster S, CA Desk",
@@ -98941,10 +99019,11 @@
       "groupType": "HANDOVER",
       "propertyId": "KIOTEL-WESTMINSTER",
       "propertyIds": [
+        "KIOTEL-WESTMINSTER",
         "KIOTEL-WESTMINSTER"
       ],
-      "propertyName": "Motel 6 Westminster S, CA",
-      "propertyLocalTime": "2026-10-13 02:41 (America/Los_Angeles)",
+      "propertyName": "Jio Bipin",
+      "propertyLocalTime": "2026-10-13 04:41 (America/Chicago)",
       "reportingShift": "Night Shift (23:00 - 07:00)",
       "senderPhone": "+120363424307152538",
       "senderName": "Motel 6 Westminster S, CA Desk",
@@ -98990,10 +99069,11 @@
       "groupType": "HANDOVER",
       "propertyId": "KIOTEL-WESTMINSTER",
       "propertyIds": [
+        "KIOTEL-WESTMINSTER",
         "KIOTEL-WESTMINSTER"
       ],
-      "propertyName": "Motel 6 Westminster S, CA",
-      "propertyLocalTime": "2026-10-13 10:29 (America/Los_Angeles)",
+      "propertyName": "Jio Bipin",
+      "propertyLocalTime": "2026-10-13 12:29 (America/Chicago)",
       "reportingShift": "Morning Shift (07:00 - 15:00)",
       "senderPhone": "+120363424307152538",
       "senderName": "Motel 6 Westminster S, CA Desk",
@@ -99039,10 +99119,11 @@
       "groupType": "HANDOVER",
       "propertyId": "KIOTEL-WESTMINSTER",
       "propertyIds": [
+        "KIOTEL-WESTMINSTER",
         "KIOTEL-WESTMINSTER"
       ],
-      "propertyName": "Motel 6 Westminster S, CA",
-      "propertyLocalTime": "2026-10-13 10:29 (America/Los_Angeles)",
+      "propertyName": "Jio Bipin",
+      "propertyLocalTime": "2026-10-13 12:29 (America/Chicago)",
       "reportingShift": "Morning Shift (07:00 - 15:00)",
       "senderPhone": "+120363424307152538",
       "senderName": "Motel 6 Westminster S, CA Desk",
@@ -99088,10 +99169,11 @@
       "groupType": "HANDOVER",
       "propertyId": "KIOTEL-WESTMINSTER",
       "propertyIds": [
+        "KIOTEL-WESTMINSTER",
         "KIOTEL-WESTMINSTER"
       ],
-      "propertyName": "Motel 6 Westminster S, CA",
-      "propertyLocalTime": "2026-10-13 18:30 (America/Los_Angeles)",
+      "propertyName": "Jio Bipin",
+      "propertyLocalTime": "2026-10-13 20:30 (America/Chicago)",
       "reportingShift": "Evening Shift (15:00 - 23:00)",
       "senderPhone": "+120363424307152538",
       "senderName": "Motel 6 Westminster S, CA Desk",
@@ -99137,10 +99219,11 @@
       "groupType": "HANDOVER",
       "propertyId": "KIOTEL-WESTMINSTER",
       "propertyIds": [
+        "KIOTEL-WESTMINSTER",
         "KIOTEL-WESTMINSTER"
       ],
-      "propertyName": "Motel 6 Westminster S, CA",
-      "propertyLocalTime": "2026-10-13 18:30 (America/Los_Angeles)",
+      "propertyName": "Jio Bipin",
+      "propertyLocalTime": "2026-10-13 20:30 (America/Chicago)",
       "reportingShift": "Evening Shift (15:00 - 23:00)",
       "senderPhone": "+120363424307152538",
       "senderName": "Motel 6 Westminster S, CA Desk",
@@ -99186,10 +99269,11 @@
       "groupType": "HANDOVER",
       "propertyId": "KIOTEL-WESTMINSTER",
       "propertyIds": [
+        "KIOTEL-WESTMINSTER",
         "KIOTEL-WESTMINSTER"
       ],
-      "propertyName": "Motel 6 Westminster S, CA",
-      "propertyLocalTime": "2026-10-14 02:27 (America/Los_Angeles)",
+      "propertyName": "Jio Bipin",
+      "propertyLocalTime": "2026-10-14 04:27 (America/Chicago)",
       "reportingShift": "Night Shift (23:00 - 07:00)",
       "senderPhone": "+120363424307152538",
       "senderName": "Motel 6 Westminster S, CA Desk",
@@ -99235,10 +99319,11 @@
       "groupType": "HANDOVER",
       "propertyId": "KIOTEL-WESTMINSTER",
       "propertyIds": [
+        "KIOTEL-WESTMINSTER",
         "KIOTEL-WESTMINSTER"
       ],
-      "propertyName": "Motel 6 Westminster S, CA",
-      "propertyLocalTime": "2026-10-14 02:27 (America/Los_Angeles)",
+      "propertyName": "Jio Bipin",
+      "propertyLocalTime": "2026-10-14 04:27 (America/Chicago)",
       "reportingShift": "Night Shift (23:00 - 07:00)",
       "senderPhone": "+120363424307152538",
       "senderName": "Motel 6 Westminster S, CA Desk",
@@ -120190,10 +120275,11 @@
       "groupType": "HANDOVER",
       "propertyId": "KIOTEL-WESTMINSTER",
       "propertyIds": [
+        "KIOTEL-WESTMINSTER",
         "KIOTEL-WESTMINSTER"
       ],
-      "propertyName": "Motel 6 Westminster S, CA",
-      "propertyLocalTime": "2026-10-18 02:42 (America/Los_Angeles)",
+      "propertyName": "Jio Bipin",
+      "propertyLocalTime": "2026-10-18 04:42 (America/Chicago)",
       "reportingShift": "Night Shift (23:00 - 07:00)",
       "senderPhone": "+120363424307152538",
       "senderName": "Motel 6 Westminster S, CA Desk",
