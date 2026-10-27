@@ -883,4 +883,8 @@ function startServer(retryAfterCleanup = true) {
   });
 }
 
-startServer(true);
+if (!process.env.VERCEL) {
+  startServer(true);
+}
+
+export default app;

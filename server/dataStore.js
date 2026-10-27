@@ -5,17 +5,24 @@
 
 import fs from 'fs';
 import path from 'path';
+import os from 'os';
+import { fileURLToPath } from 'url';
 
-const DATA_DIR = path.resolve('data');
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+const DATA_DIR = path.resolve(__dirname, 'data');
 const STATE_FILE = path.join(DATA_DIR, 'operationalState.json');
+const TMP_STATE_FILE = path.join(os.tmpdir(), 'kiotel_operationalState.json');
 
-if (!fs.existsSync(DATA_DIR)) {
-  fs.mkdirSync(DATA_DIR, { recursive: true });
-}
+try {
+  if (!fs.existsSync(DATA_DIR)) {
+    fs.mkdirSync(DATA_DIR, { recursive: true });
+  }
+} catch (_) {}
 
 // 1. Kiotel Internal Personnel & Roles
 export const teamRoster = [
-  { id: 'DIR-1', name: 'Dhuren', role: 'Director', phone: '', level: 'EXECUTIVE', shift: 'ALL' },
+  { id: 'DIR-1', name: 'Dhiren', role: 'Director', phone: '', level: 'EXECUTIVE', shift: 'ALL' },
   { id: 'OPS-1', name: 'Sarthak', role: 'Operations Manager', phone: '', level: 'OPS_MANAGER', shift: 'ALL' },
   { id: 'OPS-2', name: 'Vikas', role: 'Operations Manager', phone: '', level: 'OPS_MANAGER', shift: 'ALL' }
 ];
@@ -149,13 +156,21 @@ export const isKiotelTeamMember = (senderPhone, fromMe = false, senderName = '')
  */
 export const loadPersistedState = () => {
   try {
-    if (!fs.existsSync(STATE_FILE)) return;
-    const raw = fs.readFileSync(STATE_FILE, 'utf-8');
+    const sourceFile = (process.env.VERCEL && fs.existsSync(TMP_STATE_FILE))
+      ? TMP_STATE_FILE
+      : STATE_FILE;
+    if (!fs.existsSync(sourceFile)) return;
+    const raw = fs.readFileSync(sourceFile, 'utf-8');
     const parsed = JSON.parse(raw);
 
     if (Array.isArray(parsed.teamRoster) && parsed.teamRoster.length > 0) {
       teamRoster.length = 0;
-      teamRoster.push(...parsed.teamRoster);
+      teamRoster.push(
+        ...parsed.teamRoster.map(m => ({
+          ...m,
+          name: m.name === 'Dhuren' ? 'Dhiren' : m.name
+        }))
+      );
     }
     if (Array.isArray(parsed.whatsappGroups)) {
       whatsappGroups.length = 0;
@@ -206,9 +221,12 @@ export const savePersistedState = () => {
       shiftHandovers: shiftHandovers.slice(0, 100),
       auditLogs: auditLogs.slice(0, 500)
     };
-    fs.writeFileSync(STATE_FILE, JSON.stringify(payload, null, 2), 'utf-8');
+    const targetFile = process.env.VERCEL ? TMP_STATE_FILE : STATE_FILE;
+    fs.writeFileSync(targetFile, JSON.stringify(payload, null, 2), 'utf-8');
   } catch (err) {
-    console.error('⚠️ [DATA STORE] Failed to save state:', err.message);
+    try {
+      fs.writeFileSync(TMP_STATE_FILE, JSON.stringify({ updatedAt: new Date().toISOString() }), 'utf-8');
+    } catch (_) {}
   }
 };
 
